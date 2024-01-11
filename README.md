@@ -7,5 +7,8 @@ A WIP project to create an all-encompassing 3d environment for transitmatters da
 - Slow zones ✔️
 - Live trains ✔️
 
+#
+- GTFS to GeoJson https://github.com/BlinkTagInc/gtfs-to-geojson
+- Had to map stop coords -> geojson coords https://turfjs.org/
 # Running
 `npn run dev`
