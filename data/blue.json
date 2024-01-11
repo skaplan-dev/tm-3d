@@ -1,0 +1,1209 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "agency_name": "MBTA",
+        "route_id": "Blue",
+        "agency_id": "1",
+        "route_long_name": "Blue Line",
+        "route_desc": "Rapid Transit",
+        "route_type": 1,
+        "route_url": "https://www.mbta.com/schedules/Blue",
+        "route_color": "#003DA5",
+        "route_text_color": "#FFFFFF",
+        "route_sort_order": 10040,
+        "network_id": "rapid_transit"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-70.99153, 42.41364],
+          [-70.99202, 42.4127],
+          [-70.99223, 42.41219],
+          [-70.99241, 42.41169],
+          [-70.99261, 42.41072],
+          [-70.99268, 42.41004],
+          [-70.99268, 42.40966],
+          [-70.99266, 42.40905],
+          [-70.99255, 42.40796],
+          [-70.99252, 42.40772],
+          [-70.99238, 42.40714],
+          [-70.99212, 42.40541],
+          [-70.99205, 42.40488],
+          [-70.99141, 42.40069],
+          [-70.99138, 42.40027],
+          [-70.9914, 42.39978],
+          [-70.99146, 42.39942],
+          [-70.99154, 42.39911],
+          [-70.99164, 42.39877],
+          [-70.99179, 42.39844],
+          [-70.99199, 42.39804],
+          [-70.99387, 42.39519],
+          [-70.99464, 42.39406],
+          [-70.9952, 42.3932],
+          [-70.99635, 42.39145],
+          [-70.99701, 42.3906],
+          [-70.99732, 42.39028],
+          [-70.99758, 42.39003],
+          [-70.99833, 42.38945],
+          [-70.99904, 42.38898],
+          [-70.99974, 42.38859],
+          [-71.00049, 42.38823],
+          [-71.00233, 42.38765],
+          [-71.00554, 42.38658],
+          [-71.00676, 42.38619],
+          [-71.01029, 42.38499],
+          [-71.01071, 42.3848],
+          [-71.01083, 42.38473],
+          [-71.01207, 42.38382],
+          [-71.01591, 42.38095],
+          [-71.01625, 42.38076],
+          [-71.01681, 42.38051],
+          [-71.01733, 42.38036],
+          [-71.0179, 42.38024],
+          [-71.01819, 42.3802],
+          [-71.02046, 42.38021],
+          [-71.0209, 42.3802],
+          [-71.02146, 42.38011],
+          [-71.02192, 42.37998],
+          [-71.02442, 42.37905],
+          [-71.02482, 42.37885],
+          [-71.02516, 42.37862],
+          [-71.02636, 42.37761],
+          [-71.02679, 42.37727],
+          [-71.02708, 42.37708],
+          [-71.0279, 42.3766],
+          [-71.02822, 42.37637],
+          [-71.02842, 42.37619],
+          [-71.02879, 42.37582],
+          [-71.02894, 42.3756],
+          [-71.02943, 42.375],
+          [-71.02968, 42.37476],
+          [-71.03187, 42.37286],
+          [-71.03214, 42.37266],
+          [-71.03249, 42.37247],
+          [-71.03287, 42.37235],
+          [-71.03314, 42.37232],
+          [-71.03569, 42.3723],
+          [-71.03581, 42.37229],
+          [-71.03602, 42.37223],
+          [-71.03614, 42.37214],
+          [-71.03669, 42.37166],
+          [-71.03767, 42.37091],
+          [-71.03881, 42.36996],
+          [-71.03953, 42.36911],
+          [-71.04206, 42.3663],
+          [-71.04788, 42.36012],
+          [-71.05044, 42.35988],
+          [-71.05079, 42.3598],
+          [-71.05121, 42.35964],
+          [-71.05169, 42.35954],
+          [-71.05228, 42.35945],
+          [-71.05612, 42.35895],
+          [-71.05684, 42.35888],
+          [-71.05771, 42.35889],
+          [-71.05821, 42.35895],
+          [-71.05878, 42.35903],
+          [-71.05916, 42.35912],
+          [-71.05931, 42.35917],
+          [-71.05947, 42.35925],
+          [-71.05958, 42.35935],
+          [-71.05966, 42.35944],
+          [-71.05979, 42.35967],
+          [-71.06017, 42.36003],
+          [-71.06025, 42.36013],
+          [-71.06032, 42.36026],
+          [-71.06039, 42.36045],
+          [-71.06053, 42.36059],
+          [-71.06076, 42.36071],
+          [-71.06156, 42.36103],
+          [-71.06215, 42.36116],
+          [-71.06239, 42.36118]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agency_name": "MBTA",
+        "route_id": "Blue",
+        "agency_id": "1",
+        "route_long_name": "Blue Line",
+        "route_desc": "Rapid Transit",
+        "route_type": 1,
+        "route_url": "https://www.mbta.com/schedules/Blue",
+        "route_color": "#003DA5",
+        "route_text_color": "#FFFFFF",
+        "route_sort_order": 10040,
+        "network_id": "rapid_transit"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-71.05958, 42.35935],
+          [-71.05947, 42.35925]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agency_name": "MBTA",
+        "route_id": "Blue",
+        "agency_id": "1",
+        "route_long_name": "Blue Line",
+        "route_desc": "Rapid Transit",
+        "route_type": 1,
+        "route_url": "https://www.mbta.com/schedules/Blue",
+        "route_color": "#003DA5",
+        "route_text_color": "#FFFFFF",
+        "route_sort_order": 10040,
+        "network_id": "rapid_transit"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-71.05767, 42.35889],
+          [-71.05684, 42.35888]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agency_name": "MBTA",
+        "route_id": "Blue",
+        "agency_id": "1",
+        "route_long_name": "Blue Line",
+        "route_desc": "Rapid Transit",
+        "route_type": 1,
+        "route_url": "https://www.mbta.com/schedules/Blue",
+        "route_color": "#003DA5",
+        "route_text_color": "#FFFFFF",
+        "route_sort_order": 10040,
+        "network_id": "rapid_transit"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-71.05228, 42.35945],
+          [-71.05169, 42.35954]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agency_name": "MBTA",
+        "route_id": "Blue",
+        "agency_id": "1",
+        "route_long_name": "Blue Line",
+        "route_desc": "Rapid Transit",
+        "route_type": 1,
+        "route_url": "https://www.mbta.com/schedules/Blue",
+        "route_color": "#003DA5",
+        "route_text_color": "#FFFFFF",
+        "route_sort_order": 10040,
+        "network_id": "rapid_transit"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-71.04206, 42.3663],
+          [-71.03953, 42.36911]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agency_name": "MBTA",
+        "route_id": "Blue",
+        "agency_id": "1",
+        "route_long_name": "Blue Line",
+        "route_desc": "Rapid Transit",
+        "route_type": 1,
+        "route_url": "https://www.mbta.com/schedules/Blue",
+        "route_color": "#003DA5",
+        "route_text_color": "#FFFFFF",
+        "route_sort_order": 10040,
+        "network_id": "rapid_transit"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-71.03028, 42.37424],
+          [-71.02968, 42.37476]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agency_name": "MBTA",
+        "route_id": "Blue",
+        "agency_id": "1",
+        "route_long_name": "Blue Line",
+        "route_desc": "Rapid Transit",
+        "route_type": 1,
+        "route_url": "https://www.mbta.com/schedules/Blue",
+        "route_color": "#003DA5",
+        "route_text_color": "#FFFFFF",
+        "route_sort_order": 10040,
+        "network_id": "rapid_transit"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-71.02287, 42.37963],
+          [-71.02214, 42.37989]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agency_name": "MBTA",
+        "route_id": "Blue",
+        "agency_id": "1",
+        "route_long_name": "Blue Line",
+        "route_desc": "Rapid Transit",
+        "route_type": 1,
+        "route_url": "https://www.mbta.com/schedules/Blue",
+        "route_color": "#003DA5",
+        "route_text_color": "#FFFFFF",
+        "route_sort_order": 10040,
+        "network_id": "rapid_transit"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-71.00554, 42.38658],
+          [-71.00414, 42.38705]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agency_name": "MBTA",
+        "route_id": "Blue",
+        "agency_id": "1",
+        "route_long_name": "Blue Line",
+        "route_desc": "Rapid Transit",
+        "route_type": 1,
+        "route_url": "https://www.mbta.com/schedules/Blue",
+        "route_color": "#003DA5",
+        "route_text_color": "#FFFFFF",
+        "route_sort_order": 10040,
+        "network_id": "rapid_transit"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-70.99758, 42.39003],
+          [-70.99732, 42.39028]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agency_name": "MBTA",
+        "route_id": "Blue",
+        "agency_id": "1",
+        "route_long_name": "Blue Line",
+        "route_desc": "Rapid Transit",
+        "route_type": 1,
+        "route_url": "https://www.mbta.com/schedules/Blue",
+        "route_color": "#003DA5",
+        "route_text_color": "#FFFFFF",
+        "route_sort_order": 10040,
+        "network_id": "rapid_transit"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-70.99287, 42.3967],
+          [-70.99232, 42.39753]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agency_name": "MBTA",
+        "route_id": "Blue",
+        "agency_id": "1",
+        "route_long_name": "Blue Line",
+        "route_desc": "Rapid Transit",
+        "route_type": 1,
+        "route_url": "https://www.mbta.com/schedules/Blue",
+        "route_color": "#003DA5",
+        "route_text_color": "#FFFFFF",
+        "route_sort_order": 10040,
+        "network_id": "rapid_transit"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-70.99255, 42.40796],
+          [-70.99259, 42.40842]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agency_name": "MBTA",
+        "route_id": "Blue",
+        "agency_id": "1",
+        "route_long_name": "Blue Line",
+        "route_desc": "Rapid Transit",
+        "route_type": 1,
+        "route_url": "https://www.mbta.com/schedules/Blue",
+        "route_color": "#003DA5",
+        "route_text_color": "#FFFFFF",
+        "route_sort_order": 10040,
+        "network_id": "rapid_transit"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-70.99202, 42.4127],
+          [-70.99153, 42.41364]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "70040",
+        "stop_code": "70040",
+        "stop_name": "Government Center",
+        "stop_desc": "Government Center - Blue Line - Wonderland",
+        "zone_id": "RapidTransit",
+        "stop_url": "https://www.mbta.com/stops/place-gover",
+        "location_type": 0,
+        "parent_station": "place-gover",
+        "wheelchair_boarding": 1,
+        "level_id": "level_-2_blue_platform",
+        "routes": [
+          {
+            "route_id": "Blue",
+            "agency_id": "1",
+            "route_long_name": "Blue Line",
+            "route_desc": "Rapid Transit",
+            "route_type": 1,
+            "route_url": "https://www.mbta.com/schedules/Blue",
+            "route_color": "#003DA5",
+            "route_text_color": "#FFFFFF",
+            "route_sort_order": 10040,
+            "network_id": "rapid_transit"
+          }
+        ],
+        "agency_name": "MBTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.05921, 42.35971]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "70039",
+        "stop_code": "70039",
+        "stop_name": "Government Center",
+        "stop_desc": "Government Center - Blue Line - Bowdoin",
+        "zone_id": "RapidTransit",
+        "stop_url": "https://www.mbta.com/stops/place-gover",
+        "location_type": 0,
+        "parent_station": "place-gover",
+        "wheelchair_boarding": 1,
+        "level_id": "level_-2_blue_platform",
+        "routes": [
+          {
+            "route_id": "Blue",
+            "agency_id": "1",
+            "route_long_name": "Blue Line",
+            "route_desc": "Rapid Transit",
+            "route_type": 1,
+            "route_url": "https://www.mbta.com/schedules/Blue",
+            "route_color": "#003DA5",
+            "route_text_color": "#FFFFFF",
+            "route_sort_order": 10040,
+            "network_id": "rapid_transit"
+          }
+        ],
+        "agency_name": "MBTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.05921, 42.35971]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "70838",
+        "stop_code": "70838",
+        "stop_name": "Bowdoin",
+        "stop_desc": "Bowdoin - Blue Line - Exit Only",
+        "zone_id": "RapidTransit",
+        "stop_url": "https://www.mbta.com/stops/place-bomnl",
+        "location_type": 0,
+        "parent_station": "place-bomnl",
+        "wheelchair_boarding": 2,
+        "level_id": "level_-1_platform",
+        "routes": [
+          {
+            "route_id": "Blue",
+            "agency_id": "1",
+            "route_long_name": "Blue Line",
+            "route_desc": "Rapid Transit",
+            "route_type": 1,
+            "route_url": "https://www.mbta.com/schedules/Blue",
+            "route_color": "#003DA5",
+            "route_text_color": "#FFFFFF",
+            "route_sort_order": 10040,
+            "network_id": "rapid_transit"
+          }
+        ],
+        "agency_name": "MBTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.06204, 42.36137]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "70038",
+        "stop_code": "70038",
+        "stop_name": "Bowdoin",
+        "stop_desc": "Bowdoin - Blue Line - Wonderland",
+        "zone_id": "RapidTransit",
+        "stop_url": "https://www.mbta.com/stops/place-bomnl",
+        "location_type": 0,
+        "parent_station": "place-bomnl",
+        "wheelchair_boarding": 2,
+        "level_id": "level_-1_platform",
+        "routes": [
+          {
+            "route_id": "Blue",
+            "agency_id": "1",
+            "route_long_name": "Blue Line",
+            "route_desc": "Rapid Transit",
+            "route_type": 1,
+            "route_url": "https://www.mbta.com/schedules/Blue",
+            "route_color": "#003DA5",
+            "route_text_color": "#FFFFFF",
+            "route_sort_order": 10040,
+            "network_id": "rapid_transit"
+          }
+        ],
+        "agency_name": "MBTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.06204, 42.36137]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "70056",
+        "stop_code": "70056",
+        "stop_name": "Beachmont",
+        "stop_desc": "Beachmont - Blue Line - Wonderland",
+        "zone_id": "RapidTransit",
+        "stop_url": "https://www.mbta.com/stops/place-bmmnl",
+        "location_type": 0,
+        "parent_station": "place-bmmnl",
+        "wheelchair_boarding": 1,
+        "level_id": "level_1_platform",
+        "platform_code": "2",
+        "routes": [
+          {
+            "route_id": "Blue",
+            "agency_id": "1",
+            "route_long_name": "Blue Line",
+            "route_desc": "Rapid Transit",
+            "route_type": 1,
+            "route_url": "https://www.mbta.com/schedules/Blue",
+            "route_color": "#003DA5",
+            "route_text_color": "#FFFFFF",
+            "route_sort_order": 10040,
+            "network_id": "rapid_transit"
+          }
+        ],
+        "agency_name": "MBTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.99255, 42.3972]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "70055",
+        "stop_code": "70055",
+        "stop_name": "Beachmont",
+        "stop_desc": "Beachmont - Blue Line - Bowdoin",
+        "zone_id": "RapidTransit",
+        "stop_url": "https://www.mbta.com/stops/place-bmmnl",
+        "location_type": 0,
+        "parent_station": "place-bmmnl",
+        "wheelchair_boarding": 1,
+        "level_id": "level_1_platform",
+        "platform_code": "1",
+        "routes": [
+          {
+            "route_id": "Blue",
+            "agency_id": "1",
+            "route_long_name": "Blue Line",
+            "route_desc": "Rapid Transit",
+            "route_type": 1,
+            "route_url": "https://www.mbta.com/schedules/Blue",
+            "route_color": "#003DA5",
+            "route_text_color": "#FFFFFF",
+            "route_sort_order": 10040,
+            "network_id": "rapid_transit"
+          }
+        ],
+        "agency_name": "MBTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.99265, 42.39722]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "70044",
+        "stop_code": "70044",
+        "stop_name": "Aquarium",
+        "stop_desc": "Aquarium - Blue Line - Wonderland",
+        "zone_id": "RapidTransit",
+        "stop_url": "https://www.mbta.com/stops/place-aqucl",
+        "location_type": 0,
+        "parent_station": "place-aqucl",
+        "wheelchair_boarding": 1,
+        "level_id": "level_-2_platform",
+        "platform_code": "2",
+        "routes": [
+          {
+            "route_id": "Blue",
+            "agency_id": "1",
+            "route_long_name": "Blue Line",
+            "route_desc": "Rapid Transit",
+            "route_type": 1,
+            "route_url": "https://www.mbta.com/schedules/Blue",
+            "route_color": "#003DA5",
+            "route_text_color": "#FFFFFF",
+            "route_sort_order": 10040,
+            "network_id": "rapid_transit"
+          }
+        ],
+        "agency_name": "MBTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.05165, 42.35978]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "70043",
+        "stop_code": "70043",
+        "stop_name": "Aquarium",
+        "stop_desc": "Aquarium - Blue Line - Bowdoin",
+        "zone_id": "RapidTransit",
+        "stop_url": "https://www.mbta.com/stops/place-aqucl",
+        "location_type": 0,
+        "parent_station": "place-aqucl",
+        "wheelchair_boarding": 1,
+        "level_id": "level_-2_platform",
+        "platform_code": "1",
+        "routes": [
+          {
+            "route_id": "Blue",
+            "agency_id": "1",
+            "route_long_name": "Blue Line",
+            "route_desc": "Rapid Transit",
+            "route_type": 1,
+            "route_url": "https://www.mbta.com/schedules/Blue",
+            "route_color": "#003DA5",
+            "route_text_color": "#FFFFFF",
+            "route_sort_order": 10040,
+            "network_id": "rapid_transit"
+          }
+        ],
+        "agency_name": "MBTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.05165, 42.35978]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "70048",
+        "stop_code": "70048",
+        "stop_name": "Airport",
+        "stop_desc": "Airport - Blue Line - Wonderland",
+        "zone_id": "RapidTransit",
+        "stop_url": "https://www.mbta.com/stops/place-aport",
+        "location_type": 0,
+        "parent_station": "place-aport",
+        "wheelchair_boarding": 1,
+        "level_id": "level_0_platform",
+        "routes": [
+          {
+            "route_id": "Blue",
+            "agency_id": "1",
+            "route_long_name": "Blue Line",
+            "route_desc": "Rapid Transit",
+            "route_type": 1,
+            "route_url": "https://www.mbta.com/schedules/Blue",
+            "route_color": "#003DA5",
+            "route_text_color": "#FFFFFF",
+            "route_sort_order": 10040,
+            "network_id": "rapid_transit"
+          }
+        ],
+        "agency_name": "MBTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.03039, 42.37426]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "70047",
+        "stop_code": "70047",
+        "stop_name": "Airport",
+        "stop_desc": "Airport - Blue Line - Bowdoin",
+        "zone_id": "RapidTransit",
+        "stop_url": "https://www.mbta.com/stops/place-aport",
+        "location_type": 0,
+        "parent_station": "place-aport",
+        "wheelchair_boarding": 1,
+        "level_id": "level_0_platform",
+        "routes": [
+          {
+            "route_id": "Blue",
+            "agency_id": "1",
+            "route_long_name": "Blue Line",
+            "route_desc": "Rapid Transit",
+            "route_type": 1,
+            "route_url": "https://www.mbta.com/schedules/Blue",
+            "route_color": "#003DA5",
+            "route_text_color": "#FFFFFF",
+            "route_sort_order": 10040,
+            "network_id": "rapid_transit"
+          }
+        ],
+        "agency_name": "MBTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.03039, 42.37426]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "70060",
+        "stop_code": "70060",
+        "stop_name": "Wonderland",
+        "stop_desc": "Wonderland - Blue Line - Exit Only",
+        "zone_id": "RapidTransit",
+        "stop_url": "https://www.mbta.com/stops/place-wondl",
+        "location_type": 0,
+        "parent_station": "place-wondl",
+        "wheelchair_boarding": 1,
+        "level_id": "level_0_platform",
+        "platform_code": "2",
+        "routes": [
+          {
+            "route_id": "Blue",
+            "agency_id": "1",
+            "route_long_name": "Blue Line",
+            "route_desc": "Rapid Transit",
+            "route_type": 1,
+            "route_url": "https://www.mbta.com/schedules/Blue",
+            "route_color": "#003DA5",
+            "route_text_color": "#FFFFFF",
+            "route_sort_order": 10040,
+            "network_id": "rapid_transit"
+          }
+        ],
+        "agency_name": "MBTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.99168, 42.41336]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "70059",
+        "stop_code": "70059",
+        "stop_name": "Wonderland",
+        "stop_desc": "Wonderland - Blue Line - Bowdoin",
+        "zone_id": "RapidTransit",
+        "stop_url": "https://www.mbta.com/stops/place-wondl",
+        "location_type": 0,
+        "parent_station": "place-wondl",
+        "wheelchair_boarding": 1,
+        "level_id": "level_0_platform",
+        "platform_code": "1",
+        "routes": [
+          {
+            "route_id": "Blue",
+            "agency_id": "1",
+            "route_long_name": "Blue Line",
+            "route_desc": "Rapid Transit",
+            "route_type": 1,
+            "route_url": "https://www.mbta.com/schedules/Blue",
+            "route_color": "#003DA5",
+            "route_text_color": "#FFFFFF",
+            "route_sort_order": 10040,
+            "network_id": "rapid_transit"
+          }
+        ],
+        "agency_name": "MBTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.99171, 42.41351]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "70050",
+        "stop_code": "70050",
+        "stop_name": "Wood Island",
+        "stop_desc": "Wood Island - Blue Line - Wonderland",
+        "zone_id": "RapidTransit",
+        "stop_url": "https://www.mbta.com/stops/place-wimnl",
+        "location_type": 0,
+        "parent_station": "place-wimnl",
+        "wheelchair_boarding": 1,
+        "level_id": "level_0_platform",
+        "platform_code": "2",
+        "routes": [
+          {
+            "route_id": "Blue",
+            "agency_id": "1",
+            "route_long_name": "Blue Line",
+            "route_desc": "Rapid Transit",
+            "route_type": 1,
+            "route_url": "https://www.mbta.com/schedules/Blue",
+            "route_color": "#003DA5",
+            "route_text_color": "#FFFFFF",
+            "route_sort_order": 10040,
+            "network_id": "rapid_transit"
+          }
+        ],
+        "agency_name": "MBTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.02278, 42.37967]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "70049",
+        "stop_code": "70049",
+        "stop_name": "Wood Island",
+        "stop_desc": "Wood Island - Blue Line - Bowdoin",
+        "zone_id": "RapidTransit",
+        "stop_url": "https://www.mbta.com/stops/place-wimnl",
+        "location_type": 0,
+        "parent_station": "place-wimnl",
+        "wheelchair_boarding": 1,
+        "level_id": "level_0_platform",
+        "platform_code": "1",
+        "routes": [
+          {
+            "route_id": "Blue",
+            "agency_id": "1",
+            "route_long_name": "Blue Line",
+            "route_desc": "Rapid Transit",
+            "route_type": 1,
+            "route_url": "https://www.mbta.com/schedules/Blue",
+            "route_color": "#003DA5",
+            "route_text_color": "#FFFFFF",
+            "route_sort_order": 10040,
+            "network_id": "rapid_transit"
+          }
+        ],
+        "agency_name": "MBTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.02282, 42.37974]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "70042",
+        "stop_code": "70042",
+        "stop_name": "State",
+        "stop_desc": "State - Blue Line - Wonderland",
+        "zone_id": "RapidTransit",
+        "stop_url": "https://www.mbta.com/stops/place-state",
+        "location_type": 0,
+        "parent_station": "place-state",
+        "wheelchair_boarding": 1,
+        "level_id": "level_-1_up_platform",
+        "routes": [
+          {
+            "route_id": "Blue",
+            "agency_id": "1",
+            "route_long_name": "Blue Line",
+            "route_desc": "Rapid Transit",
+            "route_type": 1,
+            "route_url": "https://www.mbta.com/schedules/Blue",
+            "route_color": "#003DA5",
+            "route_text_color": "#FFFFFF",
+            "route_sort_order": 10040,
+            "network_id": "rapid_transit"
+          }
+        ],
+        "agency_name": "MBTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.0576, 42.35898]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "70041",
+        "stop_code": "70041",
+        "stop_name": "State",
+        "stop_desc": "State - Blue Line - Bowdoin",
+        "zone_id": "RapidTransit",
+        "stop_url": "https://www.mbta.com/stops/place-state",
+        "location_type": 0,
+        "parent_station": "place-state",
+        "wheelchair_boarding": 1,
+        "level_id": "level_-1_up_platform",
+        "routes": [
+          {
+            "route_id": "Blue",
+            "agency_id": "1",
+            "route_long_name": "Blue Line",
+            "route_desc": "Rapid Transit",
+            "route_type": 1,
+            "route_url": "https://www.mbta.com/schedules/Blue",
+            "route_color": "#003DA5",
+            "route_text_color": "#FFFFFF",
+            "route_sort_order": 10040,
+            "network_id": "rapid_transit"
+          }
+        ],
+        "agency_name": "MBTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.0576, 42.35898]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "70054",
+        "stop_code": "70054",
+        "stop_name": "Suffolk Downs",
+        "stop_desc": "Suffolk Downs - Blue Line - Wonderland",
+        "zone_id": "RapidTransit",
+        "stop_url": "https://www.mbta.com/stops/place-sdmnl",
+        "location_type": 0,
+        "parent_station": "place-sdmnl",
+        "wheelchair_boarding": 1,
+        "level_id": "level_0_platform",
+        "platform_code": "2",
+        "routes": [
+          {
+            "route_id": "Blue",
+            "agency_id": "1",
+            "route_long_name": "Blue Line",
+            "route_desc": "Rapid Transit",
+            "route_type": 1,
+            "route_url": "https://www.mbta.com/schedules/Blue",
+            "route_color": "#003DA5",
+            "route_text_color": "#FFFFFF",
+            "route_sort_order": 10040,
+            "network_id": "rapid_transit"
+          }
+        ],
+        "agency_name": "MBTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.99703, 42.39061]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "70053",
+        "stop_code": "70053",
+        "stop_name": "Suffolk Downs",
+        "stop_desc": "Suffolk Downs - Blue Line - Bowdoin",
+        "zone_id": "RapidTransit",
+        "stop_url": "https://www.mbta.com/stops/place-sdmnl",
+        "location_type": 0,
+        "parent_station": "place-sdmnl",
+        "wheelchair_boarding": 1,
+        "level_id": "level_0_platform",
+        "platform_code": "1",
+        "routes": [
+          {
+            "route_id": "Blue",
+            "agency_id": "1",
+            "route_long_name": "Blue Line",
+            "route_desc": "Rapid Transit",
+            "route_type": 1,
+            "route_url": "https://www.mbta.com/schedules/Blue",
+            "route_color": "#003DA5",
+            "route_text_color": "#FFFFFF",
+            "route_sort_order": 10040,
+            "network_id": "rapid_transit"
+          }
+        ],
+        "agency_name": "MBTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.99732, 42.39042]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "70058",
+        "stop_code": "70058",
+        "stop_name": "Revere Beach",
+        "stop_desc": "Revere Beach - Blue Line - Wonderland",
+        "zone_id": "RapidTransit",
+        "stop_url": "https://www.mbta.com/stops/place-rbmnl",
+        "location_type": 0,
+        "parent_station": "place-rbmnl",
+        "wheelchair_boarding": 1,
+        "level_id": "level_-1_platform",
+        "platform_code": "2",
+        "routes": [
+          {
+            "route_id": "Blue",
+            "agency_id": "1",
+            "route_long_name": "Blue Line",
+            "route_desc": "Rapid Transit",
+            "route_type": 1,
+            "route_url": "https://www.mbta.com/schedules/Blue",
+            "route_color": "#003DA5",
+            "route_text_color": "#FFFFFF",
+            "route_sort_order": 10040,
+            "network_id": "rapid_transit"
+          }
+        ],
+        "agency_name": "MBTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.9925, 42.40787]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "70057",
+        "stop_code": "70057",
+        "stop_name": "Revere Beach",
+        "stop_desc": "Revere Beach - Blue Line - Bowdoin",
+        "zone_id": "RapidTransit",
+        "stop_url": "https://www.mbta.com/stops/place-rbmnl",
+        "location_type": 0,
+        "parent_station": "place-rbmnl",
+        "wheelchair_boarding": 1,
+        "level_id": "level_-1_platform",
+        "platform_code": "1",
+        "routes": [
+          {
+            "route_id": "Blue",
+            "agency_id": "1",
+            "route_long_name": "Blue Line",
+            "route_desc": "Rapid Transit",
+            "route_type": 1,
+            "route_url": "https://www.mbta.com/schedules/Blue",
+            "route_color": "#003DA5",
+            "route_text_color": "#FFFFFF",
+            "route_sort_order": 10040,
+            "network_id": "rapid_transit"
+          }
+        ],
+        "agency_name": "MBTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.99259, 42.40776]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "70052",
+        "stop_code": "70052",
+        "stop_name": "Orient Heights",
+        "stop_desc": "Orient Heights - Blue Line - Wonderland",
+        "zone_id": "RapidTransit",
+        "stop_url": "https://www.mbta.com/stops/place-orhte",
+        "location_type": 0,
+        "parent_station": "place-orhte",
+        "wheelchair_boarding": 1,
+        "level_id": "level_0_platform",
+        "routes": [
+          {
+            "route_id": "Blue",
+            "agency_id": "1",
+            "route_long_name": "Blue Line",
+            "route_desc": "Rapid Transit",
+            "route_type": 1,
+            "route_url": "https://www.mbta.com/schedules/Blue",
+            "route_color": "#003DA5",
+            "route_text_color": "#FFFFFF",
+            "route_sort_order": 10040,
+            "network_id": "rapid_transit"
+          }
+        ],
+        "agency_name": "MBTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.00477, 42.38684]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "70051",
+        "stop_code": "70051",
+        "stop_name": "Orient Heights",
+        "stop_desc": "Orient Heights - Blue Line - Bowdoin",
+        "zone_id": "RapidTransit",
+        "stop_url": "https://www.mbta.com/stops/place-orhte",
+        "location_type": 0,
+        "parent_station": "place-orhte",
+        "wheelchair_boarding": 1,
+        "level_id": "level_0_platform",
+        "routes": [
+          {
+            "route_id": "Blue",
+            "agency_id": "1",
+            "route_long_name": "Blue Line",
+            "route_desc": "Rapid Transit",
+            "route_type": 1,
+            "route_url": "https://www.mbta.com/schedules/Blue",
+            "route_color": "#003DA5",
+            "route_text_color": "#FFFFFF",
+            "route_sort_order": 10040,
+            "network_id": "rapid_transit"
+          }
+        ],
+        "agency_name": "MBTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.00481, 42.38691]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "70046",
+        "stop_code": "70046",
+        "stop_name": "Maverick",
+        "stop_desc": "Maverick - Blue Line - Wonderland",
+        "zone_id": "RapidTransit",
+        "stop_url": "https://www.mbta.com/stops/place-mvbcl",
+        "location_type": 0,
+        "parent_station": "place-mvbcl",
+        "wheelchair_boarding": 1,
+        "level_id": "level_-1_platform",
+        "routes": [
+          {
+            "route_id": "Blue",
+            "agency_id": "1",
+            "route_long_name": "Blue Line",
+            "route_desc": "Rapid Transit",
+            "route_type": 1,
+            "route_url": "https://www.mbta.com/schedules/Blue",
+            "route_color": "#003DA5",
+            "route_text_color": "#FFFFFF",
+            "route_sort_order": 10040,
+            "network_id": "rapid_transit"
+          }
+        ],
+        "agency_name": "MBTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.03953, 42.36912]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "70045",
+        "stop_code": "70045",
+        "stop_name": "Maverick",
+        "stop_desc": "Maverick - Blue Line - Bowdoin",
+        "zone_id": "RapidTransit",
+        "stop_url": "https://www.mbta.com/stops/place-mvbcl",
+        "location_type": 0,
+        "parent_station": "place-mvbcl",
+        "wheelchair_boarding": 1,
+        "level_id": "level_-1_platform",
+        "routes": [
+          {
+            "route_id": "Blue",
+            "agency_id": "1",
+            "route_long_name": "Blue Line",
+            "route_desc": "Rapid Transit",
+            "route_type": 1,
+            "route_url": "https://www.mbta.com/schedules/Blue",
+            "route_color": "#003DA5",
+            "route_text_color": "#FFFFFF",
+            "route_sort_order": 10040,
+            "network_id": "rapid_transit"
+          }
+        ],
+        "agency_name": "MBTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.03953, 42.36912]
+      }
+    }
+  ]
+}

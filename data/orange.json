@@ -1,0 +1,1875 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "agency_name": "MBTA",
+        "route_id": "Orange",
+        "agency_id": "1",
+        "route_long_name": "Orange Line",
+        "route_desc": "Rapid Transit",
+        "route_type": 1,
+        "route_url": "https://www.mbta.com/schedules/Orange",
+        "route_color": "#ED8B00",
+        "route_text_color": "#FFFFFF",
+        "route_sort_order": 10020,
+        "network_id": "rapid_transit"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-71.07087, 42.43697],
+          [-71.07116, 42.43524],
+          [-71.07135, 42.43428],
+          [-71.07143, 42.43393],
+          [-71.07154, 42.43354],
+          [-71.07173, 42.433],
+          [-71.0721, 42.43209],
+          [-71.07297, 42.42988],
+          [-71.07565, 42.42331],
+          [-71.07614, 42.42205],
+          [-71.07628, 42.42163],
+          [-71.07655, 42.42066],
+          [-71.07662, 42.42026],
+          [-71.07674, 42.4195],
+          [-71.07681, 42.41898],
+          [-71.07683, 42.41764],
+          [-71.0768, 42.41591],
+          [-71.07691, 42.41156],
+          [-71.07691, 42.41104],
+          [-71.07689, 42.4106],
+          [-71.07693, 42.40932],
+          [-71.07699, 42.40635],
+          [-71.077, 42.40429],
+          [-71.07704, 42.40372],
+          [-71.07709, 42.40272],
+          [-71.07712, 42.40245],
+          [-71.07721, 42.40043],
+          [-71.07724, 42.39885],
+          [-71.07726, 42.39849],
+          [-71.07729, 42.39431],
+          [-71.07727, 42.39334],
+          [-71.07709, 42.39132],
+          [-71.07705, 42.39065],
+          [-71.07705, 42.38952],
+          [-71.07699, 42.38796],
+          [-71.07695, 42.3874],
+          [-71.07692, 42.3863],
+          [-71.07692, 42.38449],
+          [-71.07702, 42.38259],
+          [-71.07695, 42.38178],
+          [-71.07693, 42.38031],
+          [-71.07687, 42.38],
+          [-71.07678, 42.37974],
+          [-71.0766, 42.37936],
+          [-71.07631, 42.3789],
+          [-71.07419, 42.37645],
+          [-71.07363, 42.37592],
+          [-71.07244, 42.37507],
+          [-71.07148, 42.37449],
+          [-71.06958, 42.37364],
+          [-71.06908, 42.37345],
+          [-71.06774, 42.37268],
+          [-71.06572, 42.3713],
+          [-71.06053, 42.36583],
+          [-71.05911, 42.36419],
+          [-71.05836, 42.36353],
+          [-71.05816, 42.36332],
+          [-71.05794, 42.36297],
+          [-71.05789, 42.36271],
+          [-71.05769, 42.3604],
+          [-71.05772, 42.35803],
+          [-71.05779, 42.35791],
+          [-71.05867, 42.35694],
+          [-71.05927, 42.3565],
+          [-71.06033, 42.35557],
+          [-71.0606, 42.35529],
+          [-71.06103, 42.35492],
+          [-71.0623, 42.35362],
+          [-71.06236, 42.3535],
+          [-71.06244, 42.35328],
+          [-71.06247, 42.35283],
+          [-71.06253, 42.35243],
+          [-71.0627, 42.3516],
+          [-71.06286, 42.35097],
+          [-71.06292, 42.35084],
+          [-71.06299, 42.35074],
+          [-71.06332, 42.35044],
+          [-71.06392, 42.34983],
+          [-71.06411, 42.34907],
+          [-71.0642, 42.34899],
+          [-71.06734, 42.34754],
+          [-71.06753, 42.34748],
+          [-71.06767, 42.34746],
+          [-71.06787, 42.34747],
+          [-71.06865, 42.34755],
+          [-71.06899, 42.34757],
+          [-71.0716, 42.3476],
+          [-71.07357, 42.34759],
+          [-71.07472, 42.34756],
+          [-71.07511, 42.34752],
+          [-71.07558, 42.34746],
+          [-71.07605, 42.34731],
+          [-71.07639, 42.3471],
+          [-71.07799, 42.34585],
+          [-71.08057, 42.34372],
+          [-71.08157, 42.34284],
+          [-71.08261, 42.34197],
+          [-71.08363, 42.3412],
+          [-71.08777, 42.33786],
+          [-71.09035, 42.33574],
+          [-71.09301, 42.3335],
+          [-71.09431, 42.33242],
+          [-71.09439, 42.33234],
+          [-71.09492, 42.33186],
+          [-71.09516, 42.33162],
+          [-71.09564, 42.33106],
+          [-71.09644, 42.33007],
+          [-71.09699, 42.32933],
+          [-71.09712, 42.32909],
+          [-71.09724, 42.32892],
+          [-71.09784, 42.32782],
+          [-71.09805, 42.32727],
+          [-71.09836, 42.32654],
+          [-71.09849, 42.32617],
+          [-71.09899, 42.32485],
+          [-71.09973, 42.32339],
+          [-71.10003, 42.32288],
+          [-71.10062, 42.32205],
+          [-71.10131, 42.32119],
+          [-71.1027, 42.31959],
+          [-71.10301, 42.31919],
+          [-71.10351, 42.3185],
+          [-71.10396, 42.31778],
+          [-71.10439, 42.31702],
+          [-71.10469, 42.31643],
+          [-71.10489, 42.31596],
+          [-71.10535, 42.31469],
+          [-71.10559, 42.31416],
+          [-71.10574, 42.31375],
+          [-71.10631, 42.31249],
+          [-71.10683, 42.31157],
+          [-71.1083, 42.30926],
+          [-71.10886, 42.30846],
+          [-71.11018, 42.30637],
+          [-71.11133, 42.30462],
+          [-71.11288, 42.30244],
+          [-71.11313, 42.30214],
+          [-71.1141, 42.30073]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agency_name": "MBTA",
+        "route_id": "Orange",
+        "agency_id": "1",
+        "route_long_name": "Orange Line",
+        "route_desc": "Rapid Transit",
+        "route_type": 1,
+        "route_url": "https://www.mbta.com/schedules/Orange",
+        "route_color": "#ED8B00",
+        "route_text_color": "#FFFFFF",
+        "route_sort_order": 10020,
+        "network_id": "rapid_transit"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-71.10757, 42.31041],
+          [-71.1074, 42.31067]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agency_name": "MBTA",
+        "route_id": "Orange",
+        "agency_id": "1",
+        "route_long_name": "Orange Line",
+        "route_desc": "Rapid Transit",
+        "route_type": 1,
+        "route_url": "https://www.mbta.com/schedules/Orange",
+        "route_color": "#ED8B00",
+        "route_text_color": "#FFFFFF",
+        "route_sort_order": 10020,
+        "network_id": "rapid_transit"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-71.10428, 42.31721],
+          [-71.10418, 42.31739]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agency_name": "MBTA",
+        "route_id": "Orange",
+        "agency_id": "1",
+        "route_long_name": "Orange Line",
+        "route_desc": "Rapid Transit",
+        "route_type": 1,
+        "route_url": "https://www.mbta.com/schedules/Orange",
+        "route_color": "#ED8B00",
+        "route_text_color": "#FFFFFF",
+        "route_sort_order": 10020,
+        "network_id": "rapid_transit"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-71.10003, 42.32288],
+          [-71.09973, 42.32339]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agency_name": "MBTA",
+        "route_id": "Orange",
+        "agency_id": "1",
+        "route_long_name": "Orange Line",
+        "route_desc": "Rapid Transit",
+        "route_type": 1,
+        "route_url": "https://www.mbta.com/schedules/Orange",
+        "route_color": "#ED8B00",
+        "route_text_color": "#FFFFFF",
+        "route_sort_order": 10020,
+        "network_id": "rapid_transit"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-71.08316, 42.34156],
+          [-71.08261, 42.34197]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agency_name": "MBTA",
+        "route_id": "Orange",
+        "agency_id": "1",
+        "route_long_name": "Orange Line",
+        "route_desc": "Rapid Transit",
+        "route_type": 1,
+        "route_url": "https://www.mbta.com/schedules/Orange",
+        "route_color": "#ED8B00",
+        "route_text_color": "#FFFFFF",
+        "route_sort_order": 10020,
+        "network_id": "rapid_transit"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-71.0758, 42.3474],
+          [-71.07558, 42.34746]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agency_name": "MBTA",
+        "route_id": "Orange",
+        "agency_id": "1",
+        "route_long_name": "Orange Line",
+        "route_desc": "Rapid Transit",
+        "route_type": 1,
+        "route_url": "https://www.mbta.com/schedules/Orange",
+        "route_color": "#ED8B00",
+        "route_text_color": "#FFFFFF",
+        "route_sort_order": 10020,
+        "network_id": "rapid_transit"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-71.06411, 42.34907],
+          [-71.06392, 42.34983]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agency_name": "MBTA",
+        "route_id": "Orange",
+        "agency_id": "1",
+        "route_long_name": "Orange Line",
+        "route_desc": "Rapid Transit",
+        "route_type": 1,
+        "route_url": "https://www.mbta.com/schedules/Orange",
+        "route_color": "#ED8B00",
+        "route_text_color": "#FFFFFF",
+        "route_sort_order": 10020,
+        "network_id": "rapid_transit"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-71.06253, 42.35243],
+          [-71.06247, 42.35283]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agency_name": "MBTA",
+        "route_id": "Orange",
+        "agency_id": "1",
+        "route_long_name": "Orange Line",
+        "route_desc": "Rapid Transit",
+        "route_type": 1,
+        "route_url": "https://www.mbta.com/schedules/Orange",
+        "route_color": "#ED8B00",
+        "route_text_color": "#FFFFFF",
+        "route_sort_order": 10020,
+        "network_id": "rapid_transit"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-71.06033, 42.35557],
+          [-71.05985, 42.356]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agency_name": "MBTA",
+        "route_id": "Orange",
+        "agency_id": "1",
+        "route_long_name": "Orange Line",
+        "route_desc": "Rapid Transit",
+        "route_type": 1,
+        "route_url": "https://www.mbta.com/schedules/Orange",
+        "route_color": "#ED8B00",
+        "route_text_color": "#FFFFFF",
+        "route_sort_order": 10020,
+        "network_id": "rapid_transit"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-71.05771, 42.35887],
+          [-71.05769, 42.3604]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agency_name": "MBTA",
+        "route_id": "Orange",
+        "agency_id": "1",
+        "route_long_name": "Orange Line",
+        "route_desc": "Rapid Transit",
+        "route_type": 1,
+        "route_url": "https://www.mbta.com/schedules/Orange",
+        "route_color": "#ED8B00",
+        "route_text_color": "#FFFFFF",
+        "route_sort_order": 10020,
+        "network_id": "rapid_transit"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-71.05804, 42.36314],
+          [-71.05804, 42.36314],
+          [-71.05816, 42.36332]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agency_name": "MBTA",
+        "route_id": "Orange",
+        "agency_id": "1",
+        "route_long_name": "Orange Line",
+        "route_desc": "Rapid Transit",
+        "route_type": 1,
+        "route_url": "https://www.mbta.com/schedules/Orange",
+        "route_color": "#ED8B00",
+        "route_text_color": "#FFFFFF",
+        "route_sort_order": 10020,
+        "network_id": "rapid_transit"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-71.05911, 42.36419],
+          [-71.06053, 42.36583]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agency_name": "MBTA",
+        "route_id": "Orange",
+        "agency_id": "1",
+        "route_long_name": "Orange Line",
+        "route_desc": "Rapid Transit",
+        "route_type": 1,
+        "route_url": "https://www.mbta.com/schedules/Orange",
+        "route_color": "#ED8B00",
+        "route_text_color": "#FFFFFF",
+        "route_sort_order": 10020,
+        "network_id": "rapid_transit"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-71.06958, 42.37364],
+          [-71.07064, 42.37411]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agency_name": "MBTA",
+        "route_id": "Orange",
+        "agency_id": "1",
+        "route_long_name": "Orange Line",
+        "route_desc": "Rapid Transit",
+        "route_type": 1,
+        "route_url": "https://www.mbta.com/schedules/Orange",
+        "route_color": "#ED8B00",
+        "route_text_color": "#FFFFFF",
+        "route_sort_order": 10020,
+        "network_id": "rapid_transit"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-71.077, 42.38311],
+          [-71.07694, 42.38413]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agency_name": "MBTA",
+        "route_id": "Orange",
+        "agency_id": "1",
+        "route_long_name": "Orange Line",
+        "route_desc": "Rapid Transit",
+        "route_type": 1,
+        "route_url": "https://www.mbta.com/schedules/Orange",
+        "route_color": "#ED8B00",
+        "route_text_color": "#FFFFFF",
+        "route_sort_order": 10020,
+        "network_id": "rapid_transit"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-71.07719, 42.39235],
+          [-71.07727, 42.39334]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agency_name": "MBTA",
+        "route_id": "Orange",
+        "agency_id": "1",
+        "route_long_name": "Orange Line",
+        "route_desc": "Rapid Transit",
+        "route_type": 1,
+        "route_url": "https://www.mbta.com/schedules/Orange",
+        "route_color": "#ED8B00",
+        "route_text_color": "#FFFFFF",
+        "route_sort_order": 10020,
+        "network_id": "rapid_transit"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-71.07719, 42.40079],
+          [-71.07715, 42.40172]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agency_name": "MBTA",
+        "route_id": "Orange",
+        "agency_id": "1",
+        "route_long_name": "Orange Line",
+        "route_desc": "Rapid Transit",
+        "route_type": 1,
+        "route_url": "https://www.mbta.com/schedules/Orange",
+        "route_color": "#ED8B00",
+        "route_text_color": "#FFFFFF",
+        "route_sort_order": 10020,
+        "network_id": "rapid_transit"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-71.07719, 42.40079],
+          [-71.07715, 42.40172]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agency_name": "MBTA",
+        "route_id": "Orange",
+        "agency_id": "1",
+        "route_long_name": "Orange Line",
+        "route_desc": "Rapid Transit",
+        "route_type": 1,
+        "route_url": "https://www.mbta.com/schedules/Orange",
+        "route_color": "#ED8B00",
+        "route_text_color": "#FFFFFF",
+        "route_sort_order": 10020,
+        "network_id": "rapid_transit"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-71.07704, 42.40372],
+          [-71.077, 42.40416]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agency_name": "MBTA",
+        "route_id": "Orange",
+        "agency_id": "1",
+        "route_long_name": "Orange Line",
+        "route_desc": "Rapid Transit",
+        "route_type": 1,
+        "route_url": "https://www.mbta.com/schedules/Orange",
+        "route_color": "#ED8B00",
+        "route_text_color": "#FFFFFF",
+        "route_sort_order": 10020,
+        "network_id": "rapid_transit"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-71.077, 42.40416],
+          [-71.07704, 42.40372]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "70013",
+        "stop_code": "70013",
+        "stop_name": "Massachusetts Avenue",
+        "stop_desc": "Massachusetts Avenue - Orange Line - Oak Grove",
+        "zone_id": "RapidTransit",
+        "stop_url": "https://www.mbta.com/stops/place-masta",
+        "location_type": 0,
+        "parent_station": "place-masta",
+        "wheelchair_boarding": 1,
+        "level_id": "level_-1_platform",
+        "routes": [
+          {
+            "route_id": "Orange",
+            "agency_id": "1",
+            "route_long_name": "Orange Line",
+            "route_desc": "Rapid Transit",
+            "route_type": 1,
+            "route_url": "https://www.mbta.com/schedules/Orange",
+            "route_color": "#ED8B00",
+            "route_text_color": "#FFFFFF",
+            "route_sort_order": 10020,
+            "network_id": "rapid_transit"
+          }
+        ],
+        "agency_name": "MBTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.08412, 42.34089]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "70012",
+        "stop_code": "70012",
+        "stop_name": "Massachusetts Avenue",
+        "stop_desc": "Massachusetts Avenue - Orange Line - Forest Hills",
+        "zone_id": "RapidTransit",
+        "stop_url": "https://www.mbta.com/stops/place-masta",
+        "location_type": 0,
+        "parent_station": "place-masta",
+        "wheelchair_boarding": 1,
+        "level_id": "level_-1_platform",
+        "routes": [
+          {
+            "route_id": "Orange",
+            "agency_id": "1",
+            "route_long_name": "Orange Line",
+            "route_desc": "Rapid Transit",
+            "route_type": 1,
+            "route_url": "https://www.mbta.com/schedules/Orange",
+            "route_color": "#ED8B00",
+            "route_text_color": "#FFFFFF",
+            "route_sort_order": 10020,
+            "network_id": "rapid_transit"
+          }
+        ],
+        "agency_name": "MBTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.08419, 42.34093]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "70007",
+        "stop_code": "70007",
+        "stop_name": "Jackson Square",
+        "stop_desc": "Jackson Square - Orange Line - Oak Grove",
+        "zone_id": "RapidTransit",
+        "stop_url": "https://www.mbta.com/stops/place-jaksn",
+        "location_type": 0,
+        "parent_station": "place-jaksn",
+        "wheelchair_boarding": 1,
+        "level_id": "level_-1_platform",
+        "routes": [
+          {
+            "route_id": "Orange",
+            "agency_id": "1",
+            "route_long_name": "Orange Line",
+            "route_desc": "Rapid Transit",
+            "route_type": 1,
+            "route_url": "https://www.mbta.com/schedules/Orange",
+            "route_color": "#ED8B00",
+            "route_text_color": "#FFFFFF",
+            "route_sort_order": 10020,
+            "network_id": "rapid_transit"
+          }
+        ],
+        "agency_name": "MBTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.09959, 42.32313]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "70006",
+        "stop_code": "70006",
+        "stop_name": "Jackson Square",
+        "stop_desc": "Jackson Square - Orange Line - Forest Hills",
+        "zone_id": "RapidTransit",
+        "stop_url": "https://www.mbta.com/stops/place-jaksn",
+        "location_type": 0,
+        "parent_station": "place-jaksn",
+        "wheelchair_boarding": 1,
+        "level_id": "level_-1_platform",
+        "routes": [
+          {
+            "route_id": "Orange",
+            "agency_id": "1",
+            "route_long_name": "Orange Line",
+            "route_desc": "Rapid Transit",
+            "route_type": 1,
+            "route_url": "https://www.mbta.com/schedules/Orange",
+            "route_color": "#ED8B00",
+            "route_text_color": "#FFFFFF",
+            "route_sort_order": 10020,
+            "network_id": "rapid_transit"
+          }
+        ],
+        "agency_name": "MBTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.09959, 42.32313]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "70025",
+        "stop_code": "70025",
+        "stop_name": "Haymarket",
+        "stop_desc": "Haymarket - Orange Line - Oak Grove",
+        "zone_id": "RapidTransit",
+        "stop_url": "https://www.mbta.com/stops/place-haecl",
+        "location_type": 0,
+        "parent_station": "place-haecl",
+        "wheelchair_boarding": 1,
+        "level_id": "level_-1_orange_platform",
+        "routes": [
+          {
+            "route_id": "Orange",
+            "agency_id": "1",
+            "route_long_name": "Orange Line",
+            "route_desc": "Rapid Transit",
+            "route_type": 1,
+            "route_url": "https://www.mbta.com/schedules/Orange",
+            "route_color": "#ED8B00",
+            "route_text_color": "#FFFFFF",
+            "route_sort_order": 10020,
+            "network_id": "rapid_transit"
+          }
+        ],
+        "agency_name": "MBTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.05829, 42.36302]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "70024",
+        "stop_code": "70024",
+        "stop_name": "Haymarket",
+        "stop_desc": "Haymarket - Orange Line - Forest Hills",
+        "zone_id": "RapidTransit",
+        "stop_url": "https://www.mbta.com/stops/place-haecl",
+        "location_type": 0,
+        "parent_station": "place-haecl",
+        "wheelchair_boarding": 1,
+        "level_id": "level_-1_orange_platform",
+        "routes": [
+          {
+            "route_id": "Orange",
+            "agency_id": "1",
+            "route_long_name": "Orange Line",
+            "route_desc": "Rapid Transit",
+            "route_type": 1,
+            "route_url": "https://www.mbta.com/schedules/Orange",
+            "route_color": "#ED8B00",
+            "route_text_color": "#FFFFFF",
+            "route_sort_order": 10020,
+            "network_id": "rapid_transit"
+          }
+        ],
+        "agency_name": "MBTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.05829, 42.36302]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "70003",
+        "stop_code": "70003",
+        "stop_name": "Green Street",
+        "stop_desc": "Green Street - Orange Line - Oak Grove",
+        "zone_id": "RapidTransit",
+        "stop_url": "https://www.mbta.com/stops/place-grnst",
+        "location_type": 0,
+        "parent_station": "place-grnst",
+        "wheelchair_boarding": 1,
+        "level_id": "level_-1_platform",
+        "routes": [
+          {
+            "route_id": "Orange",
+            "agency_id": "1",
+            "route_long_name": "Orange Line",
+            "route_desc": "Rapid Transit",
+            "route_type": 1,
+            "route_url": "https://www.mbta.com/schedules/Orange",
+            "route_color": "#ED8B00",
+            "route_text_color": "#FFFFFF",
+            "route_sort_order": 10020,
+            "network_id": "rapid_transit"
+          }
+        ],
+        "agency_name": "MBTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.10799, 42.3098]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "70002",
+        "stop_code": "70002",
+        "stop_name": "Green Street",
+        "stop_desc": "Green Street - Orange Line - Forest Hills",
+        "zone_id": "RapidTransit",
+        "stop_url": "https://www.mbta.com/stops/place-grnst",
+        "location_type": 0,
+        "parent_station": "place-grnst",
+        "wheelchair_boarding": 1,
+        "level_id": "level_-1_platform",
+        "routes": [
+          {
+            "route_id": "Orange",
+            "agency_id": "1",
+            "route_long_name": "Orange Line",
+            "route_desc": "Rapid Transit",
+            "route_type": 1,
+            "route_url": "https://www.mbta.com/schedules/Orange",
+            "route_color": "#ED8B00",
+            "route_text_color": "#FFFFFF",
+            "route_sort_order": 10020,
+            "network_id": "rapid_transit"
+          }
+        ],
+        "agency_name": "MBTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.10806, 42.30983]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "70001",
+        "stop_code": "70001",
+        "stop_name": "Forest Hills",
+        "stop_desc": "Forest Hills - Orange Line",
+        "zone_id": "RapidTransit",
+        "stop_url": "https://www.mbta.com/stops/place-forhl",
+        "location_type": 0,
+        "parent_station": "place-forhl",
+        "wheelchair_boarding": 1,
+        "level_id": "level_-1_orange_platform",
+        "routes": [
+          {
+            "route_id": "Orange",
+            "agency_id": "1",
+            "route_long_name": "Orange Line",
+            "route_desc": "Rapid Transit",
+            "route_type": 1,
+            "route_url": "https://www.mbta.com/schedules/Orange",
+            "route_color": "#ED8B00",
+            "route_text_color": "#FFFFFF",
+            "route_sort_order": 10020,
+            "network_id": "rapid_transit"
+          }
+        ],
+        "agency_name": "MBTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.11413, 42.30093]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "70021",
+        "stop_code": "70021",
+        "stop_name": "Downtown Crossing",
+        "stop_desc": "Downtown Crossing - Orange Line - Oak Grove",
+        "zone_id": "RapidTransit",
+        "stop_url": "https://www.mbta.com/stops/place-dwnxg",
+        "location_type": 0,
+        "parent_station": "place-dwnxg",
+        "wheelchair_boarding": 1,
+        "level_id": "level_-1_orange_platform",
+        "routes": [
+          {
+            "route_id": "Orange",
+            "agency_id": "1",
+            "route_long_name": "Orange Line",
+            "route_desc": "Rapid Transit",
+            "route_type": 1,
+            "route_url": "https://www.mbta.com/schedules/Orange",
+            "route_color": "#ED8B00",
+            "route_text_color": "#FFFFFF",
+            "route_sort_order": 10020,
+            "network_id": "rapid_transit"
+          }
+        ],
+        "agency_name": "MBTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.06022, 42.35552]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "70020",
+        "stop_code": "70020",
+        "stop_name": "Downtown Crossing",
+        "stop_desc": "Downtown Crossing - Orange Line - Forest Hills",
+        "zone_id": "RapidTransit",
+        "stop_url": "https://www.mbta.com/stops/place-dwnxg",
+        "location_type": 0,
+        "parent_station": "place-dwnxg",
+        "wheelchair_boarding": 1,
+        "level_id": "level_-1_orange_platform",
+        "routes": [
+          {
+            "route_id": "Orange",
+            "agency_id": "1",
+            "route_long_name": "Orange Line",
+            "route_desc": "Rapid Transit",
+            "route_type": 1,
+            "route_url": "https://www.mbta.com/schedules/Orange",
+            "route_color": "#ED8B00",
+            "route_text_color": "#FFFFFF",
+            "route_sort_order": 10020,
+            "network_id": "rapid_transit"
+          }
+        ],
+        "agency_name": "MBTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.06022, 42.35552]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "70019",
+        "stop_code": "70019",
+        "stop_name": "Chinatown",
+        "stop_desc": "Chinatown - Orange Line - Oak Grove",
+        "zone_id": "RapidTransit",
+        "stop_url": "https://www.mbta.com/stops/place-chncl",
+        "location_type": 0,
+        "parent_station": "place-chncl",
+        "wheelchair_boarding": 1,
+        "level_id": "level_-1_platform",
+        "routes": [
+          {
+            "route_id": "Orange",
+            "agency_id": "1",
+            "route_long_name": "Orange Line",
+            "route_desc": "Rapid Transit",
+            "route_type": 1,
+            "route_url": "https://www.mbta.com/schedules/Orange",
+            "route_color": "#ED8B00",
+            "route_text_color": "#FFFFFF",
+            "route_sort_order": 10020,
+            "network_id": "rapid_transit"
+          }
+        ],
+        "agency_name": "MBTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.06275, 42.35255]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "70018",
+        "stop_code": "70018",
+        "stop_name": "Chinatown",
+        "stop_desc": "Chinatown - Orange Line - Forest Hills",
+        "zone_id": "RapidTransit",
+        "stop_url": "https://www.mbta.com/stops/place-chncl",
+        "location_type": 0,
+        "parent_station": "place-chncl",
+        "wheelchair_boarding": 1,
+        "level_id": "level_-1_platform",
+        "routes": [
+          {
+            "route_id": "Orange",
+            "agency_id": "1",
+            "route_long_name": "Orange Line",
+            "route_desc": "Rapid Transit",
+            "route_type": 1,
+            "route_url": "https://www.mbta.com/schedules/Orange",
+            "route_color": "#ED8B00",
+            "route_text_color": "#FFFFFF",
+            "route_sort_order": 10020,
+            "network_id": "rapid_transit"
+          }
+        ],
+        "agency_name": "MBTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.06275, 42.35255]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "70029",
+        "stop_code": "70029",
+        "stop_name": "Community College",
+        "stop_desc": "Community College - Orange Line - Oak Grove",
+        "zone_id": "RapidTransit",
+        "stop_url": "https://www.mbta.com/stops/place-ccmnl",
+        "location_type": 0,
+        "parent_station": "place-ccmnl",
+        "wheelchair_boarding": 1,
+        "level_id": "level_-1_platform",
+        "routes": [
+          {
+            "route_id": "Orange",
+            "agency_id": "1",
+            "route_long_name": "Orange Line",
+            "route_desc": "Rapid Transit",
+            "route_type": 1,
+            "route_url": "https://www.mbta.com/schedules/Orange",
+            "route_color": "#ED8B00",
+            "route_text_color": "#FFFFFF",
+            "route_sort_order": 10020,
+            "network_id": "rapid_transit"
+          }
+        ],
+        "agency_name": "MBTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.06953, 42.37362]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "70028",
+        "stop_code": "70028",
+        "stop_name": "Community College",
+        "stop_desc": "Community College - Orange Line - Forest Hills",
+        "zone_id": "RapidTransit",
+        "stop_url": "https://www.mbta.com/stops/place-ccmnl",
+        "location_type": 0,
+        "parent_station": "place-ccmnl",
+        "wheelchair_boarding": 1,
+        "level_id": "level_-1_platform",
+        "routes": [
+          {
+            "route_id": "Orange",
+            "agency_id": "1",
+            "route_long_name": "Orange Line",
+            "route_desc": "Rapid Transit",
+            "route_type": 1,
+            "route_url": "https://www.mbta.com/schedules/Orange",
+            "route_color": "#ED8B00",
+            "route_text_color": "#FFFFFF",
+            "route_sort_order": 10020,
+            "network_id": "rapid_transit"
+          }
+        ],
+        "agency_name": "MBTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.06953, 42.37362]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "70015",
+        "stop_code": "70015",
+        "stop_name": "Back Bay",
+        "stop_desc": "Back Bay - Orange Line - Oak Grove",
+        "zone_id": "RapidTransit",
+        "stop_url": "https://www.mbta.com/stops/place-bbsta",
+        "location_type": 0,
+        "parent_station": "place-bbsta",
+        "wheelchair_boarding": 1,
+        "level_id": "level_-1_orange_platform",
+        "routes": [
+          {
+            "route_id": "Orange",
+            "agency_id": "1",
+            "route_long_name": "Orange Line",
+            "route_desc": "Rapid Transit",
+            "route_type": 1,
+            "route_url": "https://www.mbta.com/schedules/Orange",
+            "route_color": "#ED8B00",
+            "route_text_color": "#FFFFFF",
+            "route_sort_order": 10020,
+            "network_id": "rapid_transit"
+          }
+        ],
+        "agency_name": "MBTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.07573, 42.34735]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "70014",
+        "stop_code": "70014",
+        "stop_name": "Back Bay",
+        "stop_desc": "Back Bay - Orange Line - Forest Hills",
+        "zone_id": "RapidTransit",
+        "stop_url": "https://www.mbta.com/stops/place-bbsta",
+        "location_type": 0,
+        "parent_station": "place-bbsta",
+        "wheelchair_boarding": 1,
+        "level_id": "level_-1_orange_platform",
+        "routes": [
+          {
+            "route_id": "Orange",
+            "agency_id": "1",
+            "route_long_name": "Orange Line",
+            "route_desc": "Rapid Transit",
+            "route_type": 1,
+            "route_url": "https://www.mbta.com/schedules/Orange",
+            "route_color": "#ED8B00",
+            "route_text_color": "#FFFFFF",
+            "route_sort_order": 10020,
+            "network_id": "rapid_transit"
+          }
+        ],
+        "agency_name": "MBTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.07573, 42.34735]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "70279",
+        "stop_code": "70279",
+        "stop_name": "Assembly",
+        "stop_desc": "Assembly - Orange Line - Oak Grove",
+        "zone_id": "RapidTransit",
+        "stop_url": "https://www.mbta.com/stops/place-astao",
+        "location_type": 0,
+        "parent_station": "place-astao",
+        "wheelchair_boarding": 1,
+        "level_id": "level_0_platform",
+        "routes": [
+          {
+            "route_id": "Orange",
+            "agency_id": "1",
+            "route_long_name": "Orange Line",
+            "route_desc": "Rapid Transit",
+            "route_type": 1,
+            "route_url": "https://www.mbta.com/schedules/Orange",
+            "route_color": "#ED8B00",
+            "route_text_color": "#FFFFFF",
+            "route_sort_order": 10020,
+            "network_id": "rapid_transit"
+          }
+        ],
+        "agency_name": "MBTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.07718, 42.39234]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "70278",
+        "stop_code": "70278",
+        "stop_name": "Assembly",
+        "stop_desc": "Assembly - Orange Line - Forest Hills",
+        "zone_id": "RapidTransit",
+        "stop_url": "https://www.mbta.com/stops/place-astao",
+        "location_type": 0,
+        "parent_station": "place-astao",
+        "wheelchair_boarding": 1,
+        "level_id": "level_0_platform",
+        "routes": [
+          {
+            "route_id": "Orange",
+            "agency_id": "1",
+            "route_long_name": "Orange Line",
+            "route_desc": "Rapid Transit",
+            "route_type": 1,
+            "route_url": "https://www.mbta.com/schedules/Orange",
+            "route_color": "#ED8B00",
+            "route_text_color": "#FFFFFF",
+            "route_sort_order": 10020,
+            "network_id": "rapid_transit"
+          }
+        ],
+        "agency_name": "MBTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.07726, 42.39233]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "70033",
+        "stop_code": "70033",
+        "stop_name": "Wellington",
+        "stop_desc": "Wellington - Orange Line - Oak Grove",
+        "zone_id": "RapidTransit",
+        "stop_url": "https://www.mbta.com/stops/place-welln",
+        "location_type": 0,
+        "parent_station": "place-welln",
+        "wheelchair_boarding": 1,
+        "level_id": "level_-0.5_platform",
+        "platform_code": "2",
+        "routes": [
+          {
+            "route_id": "Orange",
+            "agency_id": "1",
+            "route_long_name": "Orange Line",
+            "route_desc": "Rapid Transit",
+            "route_type": 1,
+            "route_url": "https://www.mbta.com/schedules/Orange",
+            "route_color": "#ED8B00",
+            "route_text_color": "#FFFFFF",
+            "route_sort_order": 10020,
+            "network_id": "rapid_transit"
+          }
+        ],
+        "agency_name": "MBTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.07715, 42.40151]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "70032",
+        "stop_code": "70032",
+        "stop_name": "Wellington",
+        "stop_desc": "Wellington - Orange Line - Forest Hills",
+        "zone_id": "RapidTransit",
+        "stop_url": "https://www.mbta.com/stops/place-welln",
+        "location_type": 0,
+        "parent_station": "place-welln",
+        "wheelchair_boarding": 1,
+        "level_id": "level_-0.5_platform",
+        "platform_code": "1",
+        "routes": [
+          {
+            "route_id": "Orange",
+            "agency_id": "1",
+            "route_long_name": "Orange Line",
+            "route_desc": "Rapid Transit",
+            "route_type": 1,
+            "route_url": "https://www.mbta.com/schedules/Orange",
+            "route_color": "#ED8B00",
+            "route_text_color": "#FFFFFF",
+            "route_sort_order": 10020,
+            "network_id": "rapid_transit"
+          }
+        ],
+        "agency_name": "MBTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.07725, 42.40151]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "70017",
+        "stop_code": "70017",
+        "stop_name": "Tufts Medical Center",
+        "stop_desc": "Tufts Medical Center - Orange Line - Oak Grove",
+        "zone_id": "RapidTransit",
+        "stop_url": "https://www.mbta.com/stops/place-tumnl",
+        "location_type": 0,
+        "parent_station": "place-tumnl",
+        "wheelchair_boarding": 1,
+        "level_id": "level_-2_platform",
+        "routes": [
+          {
+            "route_id": "Orange",
+            "agency_id": "1",
+            "route_long_name": "Orange Line",
+            "route_desc": "Rapid Transit",
+            "route_type": 1,
+            "route_url": "https://www.mbta.com/schedules/Orange",
+            "route_color": "#ED8B00",
+            "route_text_color": "#FFFFFF",
+            "route_sort_order": 10020,
+            "network_id": "rapid_transit"
+          }
+        ],
+        "agency_name": "MBTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.06392, 42.34966]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "70016",
+        "stop_code": "70016",
+        "stop_name": "Tufts Medical Center",
+        "stop_desc": "Tufts Medical Center - Orange Line - Forest Hills",
+        "zone_id": "RapidTransit",
+        "stop_url": "https://www.mbta.com/stops/place-tumnl",
+        "location_type": 0,
+        "parent_station": "place-tumnl",
+        "wheelchair_boarding": 1,
+        "level_id": "level_-2_platform",
+        "routes": [
+          {
+            "route_id": "Orange",
+            "agency_id": "1",
+            "route_long_name": "Orange Line",
+            "route_desc": "Rapid Transit",
+            "route_type": 1,
+            "route_url": "https://www.mbta.com/schedules/Orange",
+            "route_color": "#ED8B00",
+            "route_text_color": "#FFFFFF",
+            "route_sort_order": 10020,
+            "network_id": "rapid_transit"
+          }
+        ],
+        "agency_name": "MBTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.06392, 42.34966]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "70031",
+        "stop_code": "70031",
+        "stop_name": "Sullivan Square",
+        "stop_desc": "Sullivan Square - Orange Line - Oak Grove",
+        "zone_id": "RapidTransit",
+        "stop_url": "https://www.mbta.com/stops/place-sull",
+        "location_type": 0,
+        "parent_station": "place-sull",
+        "wheelchair_boarding": 1,
+        "level_id": "level_-1_platform",
+        "platform_code": "2",
+        "routes": [
+          {
+            "route_id": "Orange",
+            "agency_id": "1",
+            "route_long_name": "Orange Line",
+            "route_desc": "Rapid Transit",
+            "route_type": 1,
+            "route_url": "https://www.mbta.com/schedules/Orange",
+            "route_color": "#ED8B00",
+            "route_text_color": "#FFFFFF",
+            "route_sort_order": 10020,
+            "network_id": "rapid_transit"
+          }
+        ],
+        "agency_name": "MBTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.07699, 42.38398]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "70030",
+        "stop_code": "70030",
+        "stop_name": "Sullivan Square",
+        "stop_desc": "Sullivan Square - Orange Line - Forest Hills",
+        "zone_id": "RapidTransit",
+        "stop_url": "https://www.mbta.com/stops/place-sull",
+        "location_type": 0,
+        "parent_station": "place-sull",
+        "wheelchair_boarding": 1,
+        "level_id": "level_-1_platform",
+        "platform_code": "1",
+        "routes": [
+          {
+            "route_id": "Orange",
+            "agency_id": "1",
+            "route_long_name": "Orange Line",
+            "route_desc": "Rapid Transit",
+            "route_type": 1,
+            "route_url": "https://www.mbta.com/schedules/Orange",
+            "route_color": "#ED8B00",
+            "route_text_color": "#FFFFFF",
+            "route_sort_order": 10020,
+            "network_id": "rapid_transit"
+          }
+        ],
+        "agency_name": "MBTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.07699, 42.38398]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "70023",
+        "stop_code": "70023",
+        "stop_name": "State",
+        "stop_desc": "State - Orange Line - Oak Grove",
+        "zone_id": "RapidTransit",
+        "stop_url": "https://www.mbta.com/stops/place-state",
+        "location_type": 0,
+        "parent_station": "place-state",
+        "wheelchair_boarding": 1,
+        "level_id": "level_-2_oak_grove_platform",
+        "routes": [
+          {
+            "route_id": "Orange",
+            "agency_id": "1",
+            "route_long_name": "Orange Line",
+            "route_desc": "Rapid Transit",
+            "route_type": 1,
+            "route_url": "https://www.mbta.com/schedules/Orange",
+            "route_color": "#ED8B00",
+            "route_text_color": "#FFFFFF",
+            "route_sort_order": 10020,
+            "network_id": "rapid_transit"
+          }
+        ],
+        "agency_name": "MBTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.0576, 42.35898]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "70022",
+        "stop_code": "70022",
+        "stop_name": "State",
+        "stop_desc": "State - Orange Line - Forest Hills",
+        "zone_id": "RapidTransit",
+        "stop_url": "https://www.mbta.com/stops/place-state",
+        "location_type": 0,
+        "parent_station": "place-state",
+        "wheelchair_boarding": 1,
+        "level_id": "level_-1_up_platform",
+        "routes": [
+          {
+            "route_id": "Orange",
+            "agency_id": "1",
+            "route_long_name": "Orange Line",
+            "route_desc": "Rapid Transit",
+            "route_type": 1,
+            "route_url": "https://www.mbta.com/schedules/Orange",
+            "route_color": "#ED8B00",
+            "route_text_color": "#FFFFFF",
+            "route_sort_order": 10020,
+            "network_id": "rapid_transit"
+          }
+        ],
+        "agency_name": "MBTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.0576, 42.35898]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "70005",
+        "stop_code": "70005",
+        "stop_name": "Stony Brook",
+        "stop_desc": "Stony Brook - Orange Line - Oak Grove",
+        "zone_id": "RapidTransit",
+        "stop_url": "https://www.mbta.com/stops/place-sbmnl",
+        "location_type": 0,
+        "parent_station": "place-sbmnl",
+        "wheelchair_boarding": 1,
+        "level_id": "level_-1_platform",
+        "routes": [
+          {
+            "route_id": "Orange",
+            "agency_id": "1",
+            "route_long_name": "Orange Line",
+            "route_desc": "Rapid Transit",
+            "route_type": 1,
+            "route_url": "https://www.mbta.com/schedules/Orange",
+            "route_color": "#ED8B00",
+            "route_text_color": "#FFFFFF",
+            "route_sort_order": 10020,
+            "network_id": "rapid_transit"
+          }
+        ],
+        "agency_name": "MBTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.10425, 42.31706]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "70004",
+        "stop_code": "70004",
+        "stop_name": "Stony Brook",
+        "stop_desc": "Stony Brook - Orange Line - Forest Hills",
+        "zone_id": "RapidTransit",
+        "stop_url": "https://www.mbta.com/stops/place-sbmnl",
+        "location_type": 0,
+        "parent_station": "place-sbmnl",
+        "wheelchair_boarding": 1,
+        "level_id": "level_-1_platform",
+        "routes": [
+          {
+            "route_id": "Orange",
+            "agency_id": "1",
+            "route_long_name": "Orange Line",
+            "route_desc": "Rapid Transit",
+            "route_type": 1,
+            "route_url": "https://www.mbta.com/schedules/Orange",
+            "route_color": "#ED8B00",
+            "route_text_color": "#FFFFFF",
+            "route_sort_order": 10020,
+            "network_id": "rapid_transit"
+          }
+        ],
+        "agency_name": "MBTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.10425, 42.31706]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "70011",
+        "stop_code": "70011",
+        "stop_name": "Ruggles",
+        "stop_desc": "Ruggles - Orange Line - Oak Grove",
+        "zone_id": "RapidTransit",
+        "stop_url": "https://www.mbta.com/stops/place-rugg",
+        "location_type": 0,
+        "parent_station": "place-rugg",
+        "wheelchair_boarding": 1,
+        "level_id": "level_0_orange_platform",
+        "routes": [
+          {
+            "route_id": "Orange",
+            "agency_id": "1",
+            "route_long_name": "Orange Line",
+            "route_desc": "Rapid Transit",
+            "route_type": 1,
+            "route_url": "https://www.mbta.com/schedules/Orange",
+            "route_color": "#ED8B00",
+            "route_text_color": "#FFFFFF",
+            "route_sort_order": 10020,
+            "network_id": "rapid_transit"
+          }
+        ],
+        "agency_name": "MBTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.08963, 42.33645]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "70010",
+        "stop_code": "70010",
+        "stop_name": "Ruggles",
+        "stop_desc": "Ruggles - Orange Line - Forest Hills",
+        "zone_id": "RapidTransit",
+        "stop_url": "https://www.mbta.com/stops/place-rugg",
+        "location_type": 0,
+        "parent_station": "place-rugg",
+        "wheelchair_boarding": 1,
+        "level_id": "level_0_orange_platform",
+        "routes": [
+          {
+            "route_id": "Orange",
+            "agency_id": "1",
+            "route_long_name": "Orange Line",
+            "route_desc": "Rapid Transit",
+            "route_type": 1,
+            "route_url": "https://www.mbta.com/schedules/Orange",
+            "route_color": "#ED8B00",
+            "route_text_color": "#FFFFFF",
+            "route_sort_order": 10020,
+            "network_id": "rapid_transit"
+          }
+        ],
+        "agency_name": "MBTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.08968, 42.33649]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "70009",
+        "stop_code": "70009",
+        "stop_name": "Roxbury Crossing",
+        "stop_desc": "Roxbury Crossing - Orange Line - Oak Grove",
+        "zone_id": "RapidTransit",
+        "stop_url": "https://www.mbta.com/stops/place-rcmnl",
+        "location_type": 0,
+        "parent_station": "place-rcmnl",
+        "wheelchair_boarding": 1,
+        "level_id": "level_-1_platform",
+        "routes": [
+          {
+            "route_id": "Orange",
+            "agency_id": "1",
+            "route_long_name": "Orange Line",
+            "route_desc": "Rapid Transit",
+            "route_type": 1,
+            "route_url": "https://www.mbta.com/schedules/Orange",
+            "route_color": "#ED8B00",
+            "route_text_color": "#FFFFFF",
+            "route_sort_order": 10020,
+            "network_id": "rapid_transit"
+          }
+        ],
+        "agency_name": "MBTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.09604, 42.33064]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "70008",
+        "stop_code": "70008",
+        "stop_name": "Roxbury Crossing",
+        "stop_desc": "Roxbury Crossing - Orange Line - Forest Hills",
+        "zone_id": "RapidTransit",
+        "stop_url": "https://www.mbta.com/stops/place-rcmnl",
+        "location_type": 0,
+        "parent_station": "place-rcmnl",
+        "wheelchair_boarding": 1,
+        "level_id": "level_-1_platform",
+        "routes": [
+          {
+            "route_id": "Orange",
+            "agency_id": "1",
+            "route_long_name": "Orange Line",
+            "route_desc": "Rapid Transit",
+            "route_type": 1,
+            "route_url": "https://www.mbta.com/schedules/Orange",
+            "route_color": "#ED8B00",
+            "route_text_color": "#FFFFFF",
+            "route_sort_order": 10020,
+            "network_id": "rapid_transit"
+          }
+        ],
+        "agency_name": "MBTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.09612, 42.33067]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "70036",
+        "stop_code": "70036",
+        "stop_name": "Oak Grove",
+        "stop_desc": "Oak Grove - Orange Line",
+        "zone_id": "RapidTransit",
+        "stop_url": "https://www.mbta.com/stops/place-ogmnl",
+        "location_type": 0,
+        "parent_station": "place-ogmnl",
+        "wheelchair_boarding": 1,
+        "level_id": "level_0_platform",
+        "routes": [
+          {
+            "route_id": "Orange",
+            "agency_id": "1",
+            "route_long_name": "Orange Line",
+            "route_desc": "Rapid Transit",
+            "route_type": 1,
+            "route_url": "https://www.mbta.com/schedules/Orange",
+            "route_color": "#ED8B00",
+            "route_text_color": "#FFFFFF",
+            "route_sort_order": 10020,
+            "network_id": "rapid_transit"
+          }
+        ],
+        "agency_name": "MBTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.07087, 42.43774]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "70027",
+        "stop_code": "70027",
+        "stop_name": "North Station",
+        "stop_desc": "North Station - Orange Line - Oak Grove",
+        "zone_id": "RapidTransit",
+        "stop_url": "https://www.mbta.com/stops/place-north",
+        "location_type": 0,
+        "parent_station": "place-north",
+        "wheelchair_boarding": 1,
+        "level_id": "level_-2_low_platform",
+        "routes": [
+          {
+            "route_id": "Orange",
+            "agency_id": "1",
+            "route_long_name": "Orange Line",
+            "route_desc": "Rapid Transit",
+            "route_type": 1,
+            "route_url": "https://www.mbta.com/schedules/Orange",
+            "route_color": "#ED8B00",
+            "route_text_color": "#FFFFFF",
+            "route_sort_order": 10020,
+            "network_id": "rapid_transit"
+          }
+        ],
+        "agency_name": "MBTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.0602, 42.36528]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "70026",
+        "stop_code": "70026",
+        "stop_name": "North Station",
+        "stop_desc": "North Station - Orange Line - Forest Hills",
+        "zone_id": "RapidTransit",
+        "stop_url": "https://www.mbta.com/stops/place-north",
+        "location_type": 0,
+        "parent_station": "place-north",
+        "wheelchair_boarding": 1,
+        "level_id": "level_-2_low_platform",
+        "routes": [
+          {
+            "route_id": "Orange",
+            "agency_id": "1",
+            "route_long_name": "Orange Line",
+            "route_desc": "Rapid Transit",
+            "route_type": 1,
+            "route_url": "https://www.mbta.com/schedules/Orange",
+            "route_color": "#ED8B00",
+            "route_text_color": "#FFFFFF",
+            "route_sort_order": 10020,
+            "network_id": "rapid_transit"
+          }
+        ],
+        "agency_name": "MBTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.0602, 42.36528]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "70035",
+        "stop_code": "70035",
+        "stop_name": "Malden Center",
+        "stop_desc": "Malden Center - Orange Line - Oak Grove",
+        "zone_id": "RapidTransit",
+        "stop_url": "https://www.mbta.com/stops/place-mlmnl",
+        "location_type": 0,
+        "parent_station": "place-mlmnl",
+        "wheelchair_boarding": 1,
+        "level_id": "level_1_orange_platform",
+        "routes": [
+          {
+            "route_id": "Orange",
+            "agency_id": "1",
+            "route_long_name": "Orange Line",
+            "route_desc": "Rapid Transit",
+            "route_type": 1,
+            "route_url": "https://www.mbta.com/schedules/Orange",
+            "route_color": "#ED8B00",
+            "route_text_color": "#FFFFFF",
+            "route_sort_order": 10020,
+            "network_id": "rapid_transit"
+          }
+        ],
+        "agency_name": "MBTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.07431, 42.42666]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "70034",
+        "stop_code": "70034",
+        "stop_name": "Malden Center",
+        "stop_desc": "Malden Center - Orange Line - Forest Hills",
+        "zone_id": "RapidTransit",
+        "stop_url": "https://www.mbta.com/stops/place-mlmnl",
+        "location_type": 0,
+        "parent_station": "place-mlmnl",
+        "wheelchair_boarding": 1,
+        "level_id": "level_1_orange_platform",
+        "routes": [
+          {
+            "route_id": "Orange",
+            "agency_id": "1",
+            "route_long_name": "Orange Line",
+            "route_desc": "Rapid Transit",
+            "route_type": 1,
+            "route_url": "https://www.mbta.com/schedules/Orange",
+            "route_color": "#ED8B00",
+            "route_text_color": "#FFFFFF",
+            "route_sort_order": 10020,
+            "network_id": "rapid_transit"
+          }
+        ],
+        "agency_name": "MBTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.07438, 42.42668]
+      }
+    }
+  ]
+}

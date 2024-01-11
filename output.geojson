@@ -1,0 +1,786 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "agency_name": "MBTA",
+        "route_id": "Red",
+        "agency_id": "1",
+        "route_long_name": "Red Line",
+        "route_desc": "Rapid Transit",
+        "route_type": 1,
+        "route_url": "https://www.mbta.com/schedules/Red",
+        "route_color": "#DA291C",
+        "route_text_color": "#FFFFFF",
+        "route_sort_order": 10010,
+        "network_id": "rapid_transit"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-71.14208, 42.39615],
+          [-71.13955, 42.39619],
+          [-71.13896, 42.39625],
+          [-71.13829, 42.39636],
+          [-71.13802, 42.39648],
+          [-71.13771, 42.39668],
+          [-71.13749, 42.39695],
+          [-71.13737, 42.39722],
+          [-71.13725, 42.39756],
+          [-71.13718, 42.39761],
+          [-71.13708, 42.39766],
+          [-71.13636, 42.39783],
+          [-71.1352, 42.39797],
+          [-71.13088, 42.39773],
+          [-71.1291, 42.3976],
+          [-71.12647, 42.39744],
+          [-71.12545, 42.39735],
+          [-71.12417, 42.39721],
+          [-71.1233, 42.39705],
+          [-71.12221, 42.39678],
+          [-71.12157, 42.39659],
+          [-71.1212, 42.39644],
+          [-71.12063, 42.39617],
+          [-71.12003, 42.39584],
+          [-71.11969, 42.39561],
+          [-71.11946, 42.39538],
+          [-71.11933, 42.3952],
+          [-71.11924, 42.39496],
+          [-71.11921, 42.39438],
+          [-71.11915, 42.39363],
+          [-71.11883, 42.39062],
+          [-71.11894, 42.38819],
+          [-71.11979, 42.38082],
+          [-71.12008, 42.37803],
+          [-71.12006, 42.37772],
+          [-71.1199, 42.37723],
+          [-71.11968, 42.3767],
+          [-71.11943, 42.37646],
+          [-71.11876, 42.3761],
+          [-71.1186, 42.37596],
+          [-71.11853, 42.37586],
+          [-71.11848, 42.37572],
+          [-71.11853, 42.37497],
+          [-71.11868, 42.37442],
+          [-71.11884, 42.37367],
+          [-71.11884, 42.37351],
+          [-71.11882, 42.37346],
+          [-71.11876, 42.37339],
+          [-71.11848, 42.37327],
+          [-71.11594, 42.37251],
+          [-71.11581, 42.37241],
+          [-71.11422, 42.37101],
+          [-71.113, 42.37004],
+          [-71.1126, 42.36986],
+          [-71.10986, 42.36884],
+          [-71.10855, 42.36826],
+          [-71.10781, 42.3679],
+          [-71.10403, 42.36554],
+          [-71.10269, 42.36477],
+          [-71.10133, 42.36396],
+          [-71.10099, 42.36377],
+          [-71.10049, 42.36355],
+          [-71.10011, 42.36349],
+          [-71.09954, 42.36344],
+          [-71.09821, 42.36336],
+          [-71.09674, 42.36323],
+          [-71.09491, 42.36311],
+          [-71.09181, 42.36285],
+          [-71.08676, 42.36253],
+          [-71.08523, 42.36239],
+          [-71.08343, 42.36213],
+          [-71.07972, 42.36185],
+          [-71.0761, 42.36162],
+          [-71.07364, 42.36142],
+          [-71.07189, 42.36126],
+          [-71.07071, 42.36117],
+          [-71.07027, 42.3611],
+          [-71.06983, 42.36096],
+          [-71.06934, 42.36074],
+          [-71.06678, 42.35886],
+          [-71.06585, 42.35812],
+          [-71.06516, 42.35772],
+          [-71.06029, 42.35532],
+          [-71.05731, 42.35356],
+          [-71.05697, 42.35334],
+          [-71.05637, 42.35308],
+          [-71.05583, 42.35283],
+          [-71.05529, 42.35261],
+          [-71.05275, 42.35165],
+          [-71.05255, 42.35148],
+          [-71.05247, 42.35139],
+          [-71.05236, 42.35116],
+          [-71.05226, 42.35079],
+          [-71.05223, 42.35058],
+          [-71.05223, 42.3504],
+          [-71.05227, 42.35013],
+          [-71.05241, 42.34977],
+          [-71.05259, 42.34948],
+          [-71.05712, 42.34335],
+          [-71.05687, 42.32996],
+          [-71.05761, 42.3285],
+          [-71.05786, 42.32793],
+          [-71.05795, 42.32777],
+          [-71.05797, 42.3277],
+          [-71.05796, 42.32757],
+          [-71.05783, 42.32727],
+          [-71.05768, 42.32704],
+          [-71.05749, 42.32681],
+          [-71.05656, 42.32607],
+          [-71.05619, 42.32582],
+          [-71.05556, 42.32535],
+          [-71.05535, 42.32521],
+          [-71.05412, 42.32427],
+          [-71.05368, 42.32388],
+          [-71.05332, 42.32342],
+          [-71.05322, 42.32326],
+          [-71.0529, 42.32266],
+          [-71.05278, 42.32235],
+          [-71.05267, 42.322],
+          [-71.05256, 42.32145],
+          [-71.05249, 42.32073],
+          [-71.0524, 42.32015],
+          [-71.05226, 42.3187],
+          [-71.05216, 42.31601],
+          [-71.05209, 42.31531],
+          [-71.05212, 42.31449],
+          [-71.0522, 42.31405],
+          [-71.0523, 42.31366],
+          [-71.05248, 42.31315],
+          [-71.05295, 42.31195],
+          [-71.05326, 42.31124],
+          [-71.05354, 42.31067],
+          [-71.054, 42.30962],
+          [-71.05424, 42.30902],
+          [-71.05449, 42.30826],
+          [-71.05462, 42.30763],
+          [-71.05462, 42.30755],
+          [-71.05511, 42.30546],
+          [-71.05549, 42.30426],
+          [-71.05561, 42.30383],
+          [-71.05568, 42.30346],
+          [-71.05575, 42.30283],
+          [-71.05573, 42.30191],
+          [-71.05575, 42.30161],
+          [-71.05578, 42.30151],
+          [-71.05606, 42.3011],
+          [-71.05622, 42.30094],
+          [-71.05636, 42.30083],
+          [-71.05674, 42.30062],
+          [-71.05706, 42.30049],
+          [-71.05739, 42.30039],
+          [-71.0578, 42.30032],
+          [-71.05819, 42.30029],
+          [-71.05988, 42.30027],
+          [-71.0606, 42.30023],
+          [-71.06095, 42.30018],
+          [-71.06243, 42.29979],
+          [-71.06345, 42.29954],
+          [-71.06411, 42.29927],
+          [-71.06459, 42.29899],
+          [-71.06482, 42.29884],
+          [-71.06504, 42.29867],
+          [-71.06531, 42.29842],
+          [-71.06573, 42.29796],
+          [-71.0659, 42.29772],
+          [-71.06625, 42.29711],
+          [-71.06635, 42.29684],
+          [-71.06643, 42.29638],
+          [-71.06638, 42.2954],
+          [-71.06574, 42.29311],
+          [-71.06519, 42.29047],
+          [-71.06448, 42.28698],
+          [-71.06441, 42.28673],
+          [-71.06402, 42.28575],
+          [-71.064, 42.28565],
+          [-71.06401, 42.28553],
+          [-71.06408, 42.28534],
+          [-71.06408, 42.28529],
+          [-71.06356, 42.28425]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agency_name": "MBTA",
+        "route_id": "Red",
+        "agency_id": "1",
+        "route_long_name": "Red Line",
+        "route_desc": "Rapid Transit",
+        "route_type": 1,
+        "route_url": "https://www.mbta.com/schedules/Red",
+        "route_color": "#DA291C",
+        "route_text_color": "#FFFFFF",
+        "route_sort_order": 10010,
+        "network_id": "rapid_transit"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-71.06356, 42.28425],
+          [-71.06363, 42.28438]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agency_name": "MBTA",
+        "route_id": "Red",
+        "agency_id": "1",
+        "route_long_name": "Red Line",
+        "route_desc": "Rapid Transit",
+        "route_type": 1,
+        "route_url": "https://www.mbta.com/schedules/Red",
+        "route_color": "#DA291C",
+        "route_text_color": "#FFFFFF",
+        "route_sort_order": 10010,
+        "network_id": "rapid_transit"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-71.06574, 42.29311],
+          [-71.06607, 42.29433]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agency_name": "MBTA",
+        "route_id": "Red",
+        "agency_id": "1",
+        "route_long_name": "Red Line",
+        "route_desc": "Rapid Transit",
+        "route_type": 1,
+        "route_url": "https://www.mbta.com/schedules/Red",
+        "route_color": "#DA291C",
+        "route_text_color": "#FFFFFF",
+        "route_sort_order": 10010,
+        "network_id": "rapid_transit"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-71.06243, 42.29979],
+          [-71.06137, 42.30007]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agency_name": "MBTA",
+        "route_id": "Red",
+        "agency_id": "1",
+        "route_long_name": "Red Line",
+        "route_desc": "Rapid Transit",
+        "route_type": 1,
+        "route_url": "https://www.mbta.com/schedules/Red",
+        "route_color": "#DA291C",
+        "route_text_color": "#FFFFFF",
+        "route_sort_order": 10010,
+        "network_id": "rapid_transit"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-71.05354, 42.31067],
+          [-71.05326, 42.31124]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agency_name": "MBTA",
+        "route_id": "Red",
+        "agency_id": "1",
+        "route_long_name": "Red Line",
+        "route_desc": "Rapid Transit",
+        "route_type": 1,
+        "route_url": "https://www.mbta.com/schedules/Red",
+        "route_color": "#DA291C",
+        "route_text_color": "#FFFFFF",
+        "route_sort_order": 10010,
+        "network_id": "rapid_transit"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-71.05249, 42.32073],
+          [-71.05256, 42.32145]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agency_name": "MBTA",
+        "route_id": "Red",
+        "agency_id": "1",
+        "route_long_name": "Red Line",
+        "route_desc": "Rapid Transit",
+        "route_type": 1,
+        "route_url": "https://www.mbta.com/schedules/Red",
+        "route_color": "#DA291C",
+        "route_text_color": "#FFFFFF",
+        "route_sort_order": 10010,
+        "network_id": "rapid_transit"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-71.05761, 42.3285],
+          [-71.05687, 42.32996],
+          [-71.05712, 42.34335]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agency_name": "MBTA",
+        "route_id": "Red",
+        "agency_id": "1",
+        "route_long_name": "Red Line",
+        "route_desc": "Rapid Transit",
+        "route_type": 1,
+        "route_url": "https://www.mbta.com/schedules/Red",
+        "route_color": "#DA291C",
+        "route_text_color": "#FFFFFF",
+        "route_sort_order": 10010,
+        "network_id": "rapid_transit"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-71.05517, 42.35256],
+          [-71.05583, 42.35283]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agency_name": "MBTA",
+        "route_id": "Red",
+        "agency_id": "1",
+        "route_long_name": "Red Line",
+        "route_desc": "Rapid Transit",
+        "route_type": 1,
+        "route_url": "https://www.mbta.com/schedules/Red",
+        "route_color": "#DA291C",
+        "route_text_color": "#FFFFFF",
+        "route_sort_order": 10010,
+        "network_id": "rapid_transit"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-71.06029, 42.35532],
+          [-71.06242, 42.35638]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agency_name": "MBTA",
+        "route_id": "Red",
+        "agency_id": "1",
+        "route_long_name": "Red Line",
+        "route_desc": "Rapid Transit",
+        "route_type": 1,
+        "route_url": "https://www.mbta.com/schedules/Red",
+        "route_color": "#DA291C",
+        "route_text_color": "#FFFFFF",
+        "route_sort_order": 10010,
+        "network_id": "rapid_transit"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-71.07189, 42.36126],
+          [-71.07236, 42.3613]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agency_name": "MBTA",
+        "route_id": "Red",
+        "agency_id": "1",
+        "route_long_name": "Red Line",
+        "route_desc": "Rapid Transit",
+        "route_type": 1,
+        "route_url": "https://www.mbta.com/schedules/Red",
+        "route_color": "#DA291C",
+        "route_text_color": "#FFFFFF",
+        "route_sort_order": 10010,
+        "network_id": "rapid_transit"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-71.10269, 42.36477],
+          [-71.10403, 42.36554]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agency_name": "MBTA",
+        "route_id": "Red",
+        "agency_id": "1",
+        "route_long_name": "Red Line",
+        "route_desc": "Rapid Transit",
+        "route_type": 1,
+        "route_url": "https://www.mbta.com/schedules/Red",
+        "route_color": "#DA291C",
+        "route_text_color": "#FFFFFF",
+        "route_sort_order": 10010,
+        "network_id": "rapid_transit"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-71.11884, 42.37367],
+          [-71.11868, 42.37442]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agency_name": "MBTA",
+        "route_id": "Red",
+        "agency_id": "1",
+        "route_long_name": "Red Line",
+        "route_desc": "Rapid Transit",
+        "route_type": 1,
+        "route_url": "https://www.mbta.com/schedules/Red",
+        "route_color": "#DA291C",
+        "route_text_color": "#FFFFFF",
+        "route_sort_order": 10010,
+        "network_id": "rapid_transit"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-71.11894, 42.38819],
+          [-71.11883, 42.39062]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agency_name": "MBTA",
+        "route_id": "Red",
+        "agency_id": "1",
+        "route_long_name": "Red Line",
+        "route_desc": "Rapid Transit",
+        "route_type": 1,
+        "route_url": "https://www.mbta.com/schedules/Red",
+        "route_color": "#DA291C",
+        "route_text_color": "#FFFFFF",
+        "route_sort_order": 10010,
+        "network_id": "rapid_transit"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-71.12221, 42.39678],
+          [-71.1233, 42.39705]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agency_name": "MBTA",
+        "route_id": "Red",
+        "agency_id": "1",
+        "route_long_name": "Red Line",
+        "route_desc": "Rapid Transit",
+        "route_type": 1,
+        "route_url": "https://www.mbta.com/schedules/Red",
+        "route_color": "#DA291C",
+        "route_text_color": "#FFFFFF",
+        "route_sort_order": 10010,
+        "network_id": "rapid_transit"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-71.05535, 42.32521],
+          [-71.05452, 42.32467],
+          [-71.05399, 42.32427],
+          [-71.05362, 42.32397],
+          [-71.0534, 42.32377],
+          [-71.0532, 42.32354],
+          [-71.05294, 42.32319],
+          [-71.05275, 42.32283],
+          [-71.05263, 42.32252],
+          [-71.05244, 42.32179],
+          [-71.05238, 42.32145],
+          [-71.05223, 42.32088],
+          [-71.05219, 42.32064],
+          [-71.05214, 42.31997],
+          [-71.05212, 42.31982],
+          [-71.05202, 42.31806],
+          [-71.052, 42.31677],
+          [-71.05187, 42.3152],
+          [-71.0519, 42.31457],
+          [-71.05196, 42.31425],
+          [-71.05212, 42.31371],
+          [-71.05366, 42.30997],
+          [-71.05394, 42.3092],
+          [-71.05425, 42.30826],
+          [-71.05525, 42.30432],
+          [-71.05545, 42.30362],
+          [-71.05553, 42.30319],
+          [-71.05558, 42.30275],
+          [-71.05552, 42.30192],
+          [-71.05545, 42.30163],
+          [-71.05534, 42.30131],
+          [-71.05518, 42.30099],
+          [-71.05494, 42.30058],
+          [-71.05434, 42.29982],
+          [-71.05263, 42.29823],
+          [-71.05155, 42.29728],
+          [-71.05066, 42.29646],
+          [-71.04343, 42.29007],
+          [-71.04194, 42.28871],
+          [-71.03932, 42.28637],
+          [-71.03896, 42.28601],
+          [-71.03698, 42.28424],
+          [-71.03584, 42.28328],
+          [-71.03397, 42.28162],
+          [-71.03357, 42.28118],
+          [-71.0333, 42.28085],
+          [-71.03304, 42.28049],
+          [-71.03282, 42.28012],
+          [-71.03255, 42.27947],
+          [-71.03221, 42.27855],
+          [-71.03194, 42.27789],
+          [-71.03165, 42.2774],
+          [-71.03151, 42.27722],
+          [-71.03119, 42.27686],
+          [-71.03051, 42.27616],
+          [-71.02957, 42.27527],
+          [-71.02798, 42.2737],
+          [-71.02321, 42.2692],
+          [-71.02141, 42.26762],
+          [-71.02098, 42.26727],
+          [-71.02007, 42.26645],
+          [-71.01958, 42.26595],
+          [-71.01941, 42.26572],
+          [-71.0187, 42.26494],
+          [-71.01742, 42.26372],
+          [-71.01441, 42.26093],
+          [-71.01301, 42.25961],
+          [-71.01172, 42.25838],
+          [-71.01081, 42.25748],
+          [-71.00952, 42.25629],
+          [-71.00939, 42.25615],
+          [-71.0068, 42.25376],
+          [-71.00649, 42.25348],
+          [-71.00635, 42.25334],
+          [-71.00601, 42.25293],
+          [-71.0058, 42.25263],
+          [-71.00542, 42.25195],
+          [-71.00503, 42.2514],
+          [-71.00428, 42.25008],
+          [-71.00392, 42.24948],
+          [-71.00379, 42.24923],
+          [-71.00358, 42.2487],
+          [-71.00345, 42.24813],
+          [-71.00343, 42.24783],
+          [-71.00346, 42.24746],
+          [-71.00353, 42.24703],
+          [-71.00377, 42.24583],
+          [-71.00406, 42.24453],
+          [-71.00423, 42.24392],
+          [-71.00441, 42.24319],
+          [-71.00632, 42.23581],
+          [-71.00645, 42.23521],
+          [-71.00658, 42.2344],
+          [-71.00696, 42.23258],
+          [-71.00705, 42.23177],
+          [-71.00705, 42.23147],
+          [-71.007, 42.23112],
+          [-71.00688, 42.23056],
+          [-71.00653, 42.22957],
+          [-71.00628, 42.22902],
+          [-71.00553, 42.22767],
+          [-71.00517, 42.22711],
+          [-71.00337, 42.2244],
+          [-71.0027, 42.22337],
+          [-71.00177, 42.222],
+          [-71.00097, 42.22092],
+          [-71.00075, 42.22053],
+          [-71.00059, 42.22016],
+          [-71.00026, 42.21913],
+          [-71.00015, 42.21857],
+          [-71.0001, 42.21817],
+          [-71.0001, 42.21776],
+          [-71.00028, 42.21648],
+          [-71.00053, 42.21498],
+          [-71.00067, 42.2139],
+          [-71.00102, 42.21162],
+          [-71.00108, 42.21097],
+          [-71.00118, 42.21037],
+          [-71.00128, 42.20941],
+          [-71.00137, 42.20885],
+          [-71.00145, 42.20813],
+          [-71.00168, 42.20726]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agency_name": "MBTA",
+        "route_id": "Red",
+        "agency_id": "1",
+        "route_long_name": "Red Line",
+        "route_desc": "Rapid Transit",
+        "route_type": 1,
+        "route_url": "https://www.mbta.com/schedules/Red",
+        "route_color": "#DA291C",
+        "route_text_color": "#FFFFFF",
+        "route_sort_order": 10010,
+        "network_id": "rapid_transit"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-71.00694, 42.23268],
+          [-71.00682, 42.23327]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agency_name": "MBTA",
+        "route_id": "Red",
+        "agency_id": "1",
+        "route_long_name": "Red Line",
+        "route_desc": "Rapid Transit",
+        "route_type": 1,
+        "route_url": "https://www.mbta.com/schedules/Red",
+        "route_color": "#DA291C",
+        "route_text_color": "#FFFFFF",
+        "route_sort_order": 10010,
+        "network_id": "rapid_transit"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-71.00463, 42.25069],
+          [-71.00489, 42.25117]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agency_name": "MBTA",
+        "route_id": "Red",
+        "agency_id": "1",
+        "route_long_name": "Red Line",
+        "route_desc": "Rapid Transit",
+        "route_type": 1,
+        "route_url": "https://www.mbta.com/schedules/Red",
+        "route_color": "#DA291C",
+        "route_text_color": "#FFFFFF",
+        "route_sort_order": 10010,
+        "network_id": "rapid_transit"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-71.01958, 42.26595],
+          [-71.02007, 42.26645]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agency_name": "MBTA",
+        "route_id": "Red",
+        "agency_id": "1",
+        "route_long_name": "Red Line",
+        "route_desc": "Rapid Transit",
+        "route_type": 1,
+        "route_url": "https://www.mbta.com/schedules/Red",
+        "route_color": "#DA291C",
+        "route_text_color": "#FFFFFF",
+        "route_sort_order": 10010,
+        "network_id": "rapid_transit"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-71.02798, 42.2737],
+          [-71.02957, 42.27527]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agency_name": "MBTA",
+        "route_id": "Red",
+        "agency_id": "1",
+        "route_long_name": "Red Line",
+        "route_desc": "Rapid Transit",
+        "route_type": 1,
+        "route_url": "https://www.mbta.com/schedules/Red",
+        "route_color": "#DA291C",
+        "route_text_color": "#FFFFFF",
+        "route_sort_order": 10010,
+        "network_id": "rapid_transit"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-71.05223, 42.32088],
+          [-71.05235, 42.32135]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "agency_name": "MBTA",
+        "route_id": "Red",
+        "agency_id": "1",
+        "route_long_name": "Red Line",
+        "route_desc": "Rapid Transit",
+        "route_type": 1,
+        "route_url": "https://www.mbta.com/schedules/Red",
+        "route_color": "#DA291C",
+        "route_text_color": "#FFFFFF",
+        "route_sort_order": 10010,
+        "network_id": "rapid_transit"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-71.00141, 42.20849],
+          [-71.00142, 42.20837]
+        ]
+      }
+    }
+  ]
+}
